@@ -1,0 +1,19 @@
+name: "Réseau Des Masters CHPS Français"
+title: "Réseau Des Masters CHPS Français"
+type: inverse
+left:
+  - text: "Réseau"
+    menu:
+      - text: "Présentation"
+        href: ./about.html
+  - text: "Séminaires"
+    menu:
+       - text: "2021"
+         href: ./seminaires2021.html
+       - text: "2022"
+         href: ./semianires2022.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/ddavid42/chps
