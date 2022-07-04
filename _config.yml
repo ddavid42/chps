@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+description: Site web du réseau des masters CHPS
+url: "https://ddavid42.github.io/chps"
+markdown: kramdown
+highlighter: rouge
