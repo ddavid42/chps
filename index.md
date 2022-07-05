@@ -1,8 +1,9 @@
 ---
 title: "My website"
+layout: page
 output: 
   html_document:
-    toc: FALSE
+    toc: TRUE
 ---
 
 

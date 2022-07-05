@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal
 description: Site web du réseau des masters CHPS
 url: "https://ddavid42.github.io/chps"
 markdown: kramdown
@@ -8,3 +8,4 @@ header_pages:
  - index.md
  - consortium.md
  - stages.md
+ - about.md
