@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Le réseau
 permalink: /about/
 ---
-# Le réseau 
 
 Le réseau des établissements français délivrant des diplômes reconnus par l'état dans la spécialité du Calcul Haute Performance, Simulation est composé des établissements suivant :
 

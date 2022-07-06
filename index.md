@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Home
+#title: Home
 ---
 
 
 
-![image](/doc/logo.png){: height="80" align="left" }
+![image](/doc/logo.png){: height="80" align="right" }
 
 
 Site web du Réseau des Masters Calcul Haute Performance, Simulation
