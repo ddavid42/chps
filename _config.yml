@@ -40,6 +40,11 @@ header_pages:
  - stages.md
  - consortium.md
 
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+title-img: /doc/logo.png
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

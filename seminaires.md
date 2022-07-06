@@ -5,9 +5,11 @@ permalink: /seminaires/
 ---
 *Séminaires 2021-2022*
 
-**Membres**
-Université de Perpignan
-Université de Paris-Saclay
-Université de Reims Champagne-Ardenne
-ENSEIRB-MATMECA (Bordeaux)
-ENSEEITH (Toulouse)*
+
+Planning des séminaires du réseau pour l'année universitaire 2021-2022 :
+
+- 4 octobre 10h-11h : Intervenant à venir
+- 8 novembre 10h-11h : Intervenant à venir
+- 6 décembre 10h-11h : Intervenant à venir
+- 17 janvier 10h-11h : Intervenant à venir 
+- 7 mars 10h-11h : Intervenant à venir

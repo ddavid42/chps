@@ -5,4 +5,4 @@ permalink: /stages/
 ---
 *Stages 2021-2022*
 
-stages N°1...
+- stages N°1 :
