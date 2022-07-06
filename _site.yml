@@ -1,9 +1,34 @@
 name: "Réseau Des Masters CHPS Français"
-output_dir: 'docs'
+exclude: ["download", "libs"]
+output_dir: "."
+navbar:
+  title: "NavBar Title"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: 'About'
+      href: about.html
+    - text: 'Whatever Menu' ## setting up a drop down menu
+      menu:
+        - text: 'Whatever Menu 1'
+          href: whatevermenu1.html
+        - text: 'Whatever Menu 2'
+          href: whatevermenu2.html
+        - text: 'Whatever Menu 3'
+          href: whatevermenu3.html
+    - text: 'Unicorns'
+      href: unicorns.html
+    - text: 'Downloads'
+      href: downloads.html
+
 output:
   html_document:
+    lib_dir: 'libs'
     theme: cerulean
     highlight: zenburn
+    include:
+      after_body: footer.html
+    css: style.css
     toc: true
     toc_depth: 2
     toc_float:

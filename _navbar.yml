@@ -11,9 +11,9 @@ left:
        - text: "2021"
          href: ./seminaires2021.html
        - text: "2022"
-         href: ./semianires2022.html
+         href: ./seminaires2022.html
   - text: "Contact"
-    href: ./contact.html
+    href: ./about.html
 right:
   - icon: fa-github fa-lg
     href: https://github.com/ddavid42/chps

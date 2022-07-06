@@ -2,7 +2,6 @@
 title: "About Réseau Des Masters CHPS"
 output: 
   html_document:
-    toc: FALSE
 ---
 
 
