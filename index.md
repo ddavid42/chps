@@ -5,7 +5,7 @@ layout: home
 
 
 
-![image](/doc/logo.png){: height="80" align="right" }
+![image](/doc/logo.png){: height="100" align="right" }
 
 
 Site web du Réseau des Masters Calcul Haute Performance, Simulation
