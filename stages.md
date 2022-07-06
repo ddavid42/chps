@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stages
-permalink: /chps/stages/
+permalink: /stages/
 ---
 *Stages 2021-2022*
 

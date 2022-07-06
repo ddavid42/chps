@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Séminaires
-permalink: /chps/seminaires/
+permalink: /seminaires/
 ---
 *Séminaires 2021-2022*
 

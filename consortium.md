@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /chps/about/
+permalink: /about/
 ---
 *Le réseau*
 
