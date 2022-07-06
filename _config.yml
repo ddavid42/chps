@@ -43,7 +43,7 @@ header_pages:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /doc/logo.png
+#title-img: /doc/logo.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
