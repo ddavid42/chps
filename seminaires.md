@@ -3,7 +3,7 @@ layout: page
 title: Séminaires
 permalink: /seminaires/
 ---
-*Séminaires 2021-2022*
+# Séminaires 2021-2022
 
 
 Planning des séminaires du réseau pour l'année universitaire 2021-2022 :
