@@ -1,6 +1,7 @@
 ---
 title: "My website"
 layout: page
+#permalink: index
 output: 
   html_document:
     toc: TRUE

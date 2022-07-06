@@ -1,4 +1,5 @@
 theme: minimal
+permalinks: pretty
 description: Site web du réseau des masters CHPS
 url: "https://ddavid42.github.io/chps"
 markdown: kramdown
