@@ -22,7 +22,7 @@ title: Réseau des Masters CHPS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site web du Réseau des Masters CHPS français.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: chps"" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 #twitter_username: jekyllrb
