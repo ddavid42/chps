@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Index
 ---
 
 Site web du Réseau des Masters Calcul Haute Performance, Simulation
