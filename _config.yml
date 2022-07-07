@@ -23,7 +23,7 @@ title: Réseau des Masters CHPS
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Site web du Réseau des Masters CHPS français.
 baseurl: "/chps" # the subpath of your site, e.g. /blog
-url: "https://ddavid42.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.master-chps.fr" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: # set tracking
 markdown: kramdown
 #twitter_username: jekyllrb
