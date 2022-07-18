@@ -10,7 +10,7 @@ Le réseau des établissements français délivrant des diplômes reconnus par l
 - [Master CHPS, Université de Perpignan](https://chps.univ-perp.fr/)
 - [Master CHPS, Université de Paris-Saclay](http://chps.uvsq.fr/)
 - [Master CHPS, Université de Reims Champagne-Ardenne](https://romeo.univ-reims.fr/chps/)
-- [Parcours CHPS, ENSEIRB-MATMECA, Bordeaux](https://moodle.bordeaux-inp.fr/course/index.php?categoryid=587)
+- [Parcours CISD, ENSEIRB-MATMECA, Université de Bordeaux](https://cisd.enseirb-matmeca.fr/)
 - [Parcours CHPS, ENSEEITH (Toulouse)](https://www.enseeiht.fr/fr/formation/formation-ingenieur/departement-sn.html)
 
 ## Liens

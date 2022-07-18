@@ -4,6 +4,5 @@ title: Stages 2021-2022
 permalink: /stages/
 ---
 
-
-[Liste de stage](http://www.cisd-enseirb-matmeca.fr/internal/stages) 
+[Liste de stage](https://gforgeron.gitlab.io/cisd/internal/stages/)
 
