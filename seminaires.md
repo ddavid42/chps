@@ -7,7 +7,7 @@ permalink: /seminaires/
 Planning des séminaires du réseau pour l'année universitaire 2022-2023 :
 
 - 4 octobre 10h-11h : Luigi Brochard (https://www.eas4dc.com), _Energy Efficient Datacenters_
-- 8 novembre 10h-11h : Antoine Jégo (https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/), _Titre à venir_
+- 8 novembre 10h-11h : Antoine Jégo (https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/), _Task-Based Programming Models For Scalable Algorithms: Application to Matrix Multiplication_
 - 6 décembre 10h-11h : Clément Foyer (https://www.univ-reims.fr/), _Gestion des mémoires hétérogènes dans les systèmes HPC_
 - 17 janvier 10h-11h : Patrick Carribault (CEA), _Titre à venir_
 - 7 mars 10h-11h : Intervenant à venir
