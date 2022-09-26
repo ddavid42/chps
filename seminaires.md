@@ -4,7 +4,7 @@ title: Séminaires 2022-2023
 permalink: /seminaires/
 ---
 
-Planning des séminaires du réseau pour l'année universitaire 2021-2022 :
+Planning des séminaires du réseau pour l'année universitaire 2022-2023 :
 
 - 4 octobre 10h-11h : Luigi Brochard (https://www.eas4dc.com), _Energy Efficient Datacenters_
 - 8 novembre 10h-11h : Antoine Jégo (https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/), _Titre à venir_
