@@ -16,4 +16,8 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * CEA Paris/Saclay
    * [Comparaison d'implémentations du produit scalaire dot2 basés sur intrinsics x86, eigen et kokkos](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-calloo.pdf)
+
+ * UPVD/Perpignan
+   *[Développement d’un accesseur mémoire dans le cadre du projet InterFLOP](https://perso.univ-perp.fr/david.defour/Doc/Acc_Mem_2022.pdf)
+   *[Performance analysis of DOT Product on multicore architecture in the context of portable code](https://perso.univ-perp.fr/david.defour/Doc/Dot_Prod_2022.pdf)
  
