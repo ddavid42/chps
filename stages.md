@@ -21,3 +21,9 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Développement d’un accesseur mémoire dans le cadre du projet InterFLOP](https://perso.univ-perp.fr/david.defour/Doc/Acc_Mem_2022.pdf)
    * [Performance analysis of DOT Product on multicore architecture in the context of portable code](https://perso.univ-perp.fr/david.defour/Doc/Dot_Prod_2022.pdf)
  
+ * Inria Bordeaux
+   * [Equipe Tadaam - Interruptions en espace utilisateur pour le réseau BXI](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2023_uintr.html)
+   
+ * CEA Irene - Saint-Paul lez Durance
+   * [Parallélisation hybride de la méthode Boltzmann sur réseau: Application à l'entrainement d'un milieu granulaire par un fluide](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_irene_prat.pdf)
+   * [Optimisation des performances sur GPU d'un solveur thermo-mécanique](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_irene_latu.pdf)
