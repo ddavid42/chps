@@ -27,3 +27,6 @@ et à mesure que nous recevrons de nouveaux sujets.
  * CEA Irene - Saint-Paul lez Durance
    * [Parallélisation hybride de la méthode Boltzmann sur réseau: Application à l'entrainement d'un milieu granulaire par un fluide](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_irene_prat.pdf)
    * [Optimisation des performances sur GPU d'un solveur thermo-mécanique](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_irene_latu.pdf)
+
+* Inria Rennes
+  * [Equipe Genscale - Parallelization of genomics and bioinformatics algorithms using Processing-in-Memory](https://team.inria.fr/genscale/job-offers/internship-engineer-hpc/)
