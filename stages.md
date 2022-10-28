@@ -31,4 +31,4 @@ et à mesure que nous recevrons de nouveaux sujets.
   * [Equipe Genscale - Parallelization of genomics and bioinformatics algorithms using Processing-in-Memory](https://team.inria.fr/genscale/job-offers/internship-engineer-hpc/)
 
 * EAS Barcelone
-  * [Energy Aware Solutions](https://perso.univ-perp.fr/david.defour/Doc/EAS Internship Proposal_Oct_2022.pdf)
+  * [Energy Aware Solutions](https://perso.univ-perp.fr/david.defour/Doc/EAS_Internship_Proposal_Oct_2022.pdf)
