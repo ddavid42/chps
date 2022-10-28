@@ -4,9 +4,8 @@ title: Stages 2022-2023
 permalink: /stages/
 ---
 
-Nous allons essayer de recencer ici les propositions de stages que
-nous recevrons à l'intention des étudiants du réseaux des masters CHPS
-pour l'année 2022-2023, et la liste ci-dessous sera mise à jour au fur
+Nous recencons ici les propositions de stages que
+nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l'année 2022-2023, et la liste ci-dessous sera mise à jour au fur
 et à mesure que nous recevrons de nouveaux sujets.
 
  * CEA CESTA - Le Barp
@@ -30,3 +29,6 @@ et à mesure que nous recevrons de nouveaux sujets.
 
 * Inria Rennes
   * [Equipe Genscale - Parallelization of genomics and bioinformatics algorithms using Processing-in-Memory](https://team.inria.fr/genscale/job-offers/internship-engineer-hpc/)
+
+* EAS Barcelone
+  * [Energy Aware Solutions](https://perso.univ-perp.fr/david.defour/Doc/EAS Internship Proposal_Oct_2022.pdf)
