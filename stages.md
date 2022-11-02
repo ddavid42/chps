@@ -32,3 +32,7 @@ et à mesure que nous recevrons de nouveaux sujets.
 
 * EAS Barcelone
   * [Energy Aware Solutions - Performance evaluation of some applications or workflows for a fine grain tuning of EAR energy policies](https://perso.univ-perp.fr/david.defour/Doc/EAS_Internship_Proposal_Oct_2022.pdf)
+  
+* CEA Bruyères-le-Châtel
+  * [Portage de code sur carte graphique](https://www.emploi.cea.fr/offre-de-emploi/emploi-portage-de-code-sur-carte-graphique_23527.aspx)
+
