@@ -22,6 +22,8 @@ et à mesure que nous recevrons de nouveaux sujets.
  
  * Inria Bordeaux
    * [Equipe Tadaam - Interruptions en espace utilisateur pour le réseau BXI](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2023_uintr.html)
+   * [Equipe CONCACE - Calcul d'interactions sur GPU par une méthode hiérarchique](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_fmm_gpu/)
+   + [Equipe Storm - Detecting Errors in MPI Applications with Deep Learning](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_storm_gnn4ompi/)
    
  * CEA Irene - Saint-Paul lez Durance
    * [Parallélisation hybride de la méthode Boltzmann sur réseau: Application à l'entrainement d'un milieu granulaire par un fluide](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_irene_prat.pdf)
