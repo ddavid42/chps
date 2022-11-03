@@ -38,3 +38,13 @@ et à mesure que nous recevrons de nouveaux sujets.
 * CEA Bruyères-le-Châtel
   * [Portage de code sur carte graphique](https://www.emploi.cea.fr/offre-de-emploi/emploi-portage-de-code-sur-carte-graphique_23527.aspx)
 
+ * Aneo
+   + [Amélioration de l'orchestrateur de tâches de calcul ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-1)
+   + [Optimisation de la gestion des dépendances au sein de l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-dependencies)
+   + [Mise en place d'un mécanisme d'évaluation paresseuse pour l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-lazy)
+   + [Mutualization des services d'orchestration au sein de l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-mutualization)
+   + [Etat des lieux et mise en œuvre de caches de données P2P pour l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-P2P)
+   + [Intégration de l'orchestrateur HTC/HPC ArmoniK sur Microsoft Azure ou Google Cloud Platform (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-port)
+   + [Etat des l'art des stratégies d'ordonnancement pour l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ArmoniK-scheduling)
+   + [Optimisation de l'allocation des nœuds de calculs au sein d'un cluster SLURM dans le cloud (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/ElastiSlurm-1)
+ 
