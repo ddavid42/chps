@@ -55,7 +55,7 @@ et à mesure que nous recevrons de nouveaux sujets.
  * IRIT - Toulouse
    + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_rnd)
 
- * Synopsis
+ * Synopsys - Wissous
    + [Analyse de chemins combinatoires inter-FPGAs, aide au partitionnement](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Synopsys-chemin-combi.pdf)
    + [Analyse et optimisation d’architecture de plateforme d’émulation et prototypage basée sur le câblage modulaire](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Synopsys-optimisation_cablage.pdf)
 
