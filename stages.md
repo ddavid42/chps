@@ -22,7 +22,7 @@ et à mesure que nous recevrons de nouveaux sujets.
  
  * Inria Bordeaux
    + [Equipe Tadaam - Interruptions en espace utilisateur pour le réseau BXI](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2023_uintr.html)
-   + [Equipe CONCACE - Calcul d'interactions sur GPU par une méthode hiérarchique](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_fmm_gpu/)
+   + [Equipe Concace - Calcul d'interactions sur GPU par une méthode hiérarchique](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_fmm_gpu/)
    + [Equipe Storm - Detecting Errors in MPI Applications with Deep Learning](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_storm_gnn4ompi/)
    + [Equipe Storm - Support d'exécution à base de tâches et programmation de haut niveau pour la simulation par éléments finis](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_oaumage_fenics_starpu)
    + [Equipe Storm - Ordonnancement de tâches en considérant la fréquence uncore dans StarPU](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_strom_starpu)
@@ -33,7 +33,11 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Optimisation des performances sur GPU d'un solveur thermo-mécanique](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_irene_latu.pdf)
 
  * Inria Rennes
-   * [Equipe Genscale - Parallelization of genomics and bioinformatics algorithms using Processing-in-Memory](https://team.inria.fr/genscale/job-offers/internship-engineer-hpc/)
+   + [Equipe Genscale - Parallelization of genomics and bioinformatics algorithms using Processing-in-Memory](https://team.inria.fr/genscale/job-offers/internship-engineer-hpc/)
+   + [Equipe Myriads - Towards reliable and cost-efficient intermediate data management in data-intensive clusters](http://people.rennes.inria.fr/Shadi.Ibrahim/Opening-Internships.html)
+   + [Equipe Myriads - On the role of data placement in P2P distributed storage systems](http://people.rennes.inria.fr/Shadi.Ibrahim/Opening-Internships.html)
+   + [Equipe Myriads - Addressing resource and data dynamics for stream data applications in the Edge](http://people.rennes.inria.fr/Shadi.Ibrahim/Opening-Internships.html)
+   + [Equipe Myriads - Distributed Burst Buffer System in Collaborative Research](http://people.rennes.inria.fr/Shadi.Ibrahim/Opening-Internships.html)
 
  * EAS Barcelone
    * [Energy Aware Solutions - Performance evaluation of some applications or workflows for a fine grain tuning of EAR energy policies](https://perso.univ-perp.fr/david.defour/Doc/EAS_Internship_Proposal_Oct_2022.pdf)
