@@ -11,14 +11,11 @@ et à mesure que nous recevrons de nouveaux sujets.
  * CEA CESTA - Le Barp
    * [Raffinement adaptatif de maillage portable et performant dans un code d'aérodynamique](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-fovet.pdf)
    * [Debugging, profiling et tracing dans les codes de simulation](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-delarue.pdf)
- 
- * CEA LTSD 
    * [Etude de partitionneur pour un solveur H matrice](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-sesques.pdf)
 
  * CEA Paris/Saclay
    * [Comparaison d'implémentations du produit scalaire dot2 basés sur intrinsics x86, eigen et kokkos](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-calloo.pdf)
-  * [Développement d'un ordonnanceur dynamique de calcul hybride GPU (CUDA)/CPU](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_LTSD_nn_sujet_de_stage_2022-2023_Hybrid_GPU-CPU_GONCALVES.pdf)
-
+  
  * UPVD/Perpignan
    * [Développement d’un accesseur mémoire dans le cadre du projet InterFLOP](https://perso.univ-perp.fr/david.defour/Doc/Acc_Mem_2022.pdf)
    * [Performance analysis of DOT Product on multicore architecture in the context of portable code](https://perso.univ-perp.fr/david.defour/Doc/Dot_Prod_2022.pdf)
@@ -47,7 +44,8 @@ et à mesure que nous recevrons de nouveaux sujets.
   
  * CEA Bruyères-le-Châtel
    * [Portage de code sur carte graphique](https://www.emploi.cea.fr/offre-de-emploi/emploi-portage-de-code-sur-carte-graphique_23527.aspx)
-
+  * [Développement d'un ordonnanceur dynamique de calcul hybride GPU (CUDA)/CPU](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_LTSD_nn_sujet_de_stage_2022-2023_Hybrid_GPU-CPU_GONCALVES.pdf)
+  
  * Aneo
    + [Amélioration de l'orchestrateur de tâches de calcul ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-1)
    + [Optimisation de la gestion des dépendances au sein de l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-dependencies)
@@ -57,7 +55,6 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Intégration de l'orchestrateur HTC/HPC ArmoniK sur Microsoft Azure ou Google Cloud Platform (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-port)
    + [Etat des l'art des stratégies d'ordonnancement pour l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-scheduling)
    + [Optimisation de l'allocation des nœuds de calculs au sein d'un cluster SLURM dans le cloud (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/elastislurm-1)
-   + [Conception de bibliothèques d'instrumentation dynamique pour Valgrind, LLVM ou Intel Pin afin d'analyser les opérations en arithmétique flottante](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/interflop)
  
  * IFPEN - Rueil Malmaison
    + [Abstraction de la vectorisation pour les nouvelles architectures matérielles](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023_stage_IFPEN-R114_INRIA_Lip6.pdf)
