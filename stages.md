@@ -54,6 +54,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Intégration de l'orchestrateur HTC/HPC ArmoniK sur Microsoft Azure ou Google Cloud Platform (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-port)
    + [Etat des l'art des stratégies d'ordonnancement pour l'orchestrateur HTC/HPC ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-scheduling)
    + [Optimisation de l'allocation des nœuds de calculs au sein d'un cluster SLURM dans le cloud (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/elastislurm-1)
+   + [Conception de bibliothèques d'instrumentation dynamique pour Valgrind, LLVM ou Intel Pin afin d'analyser les opérations en arithmétique flottante](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/interflop)
  
  * IFPEN - Rueil Malmaison
    + [Abstraction de la vectorisation pour les nouvelles architectures matérielles](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023_stage_IFPEN-R114_INRIA_Lip6.pdf)
