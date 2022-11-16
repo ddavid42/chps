@@ -66,3 +66,5 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Analyse de chemins combinatoires inter-FPGAs, aide au partitionnement](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Synopsys-chemin-combi.pdf)
    + [Analyse et optimisation d’architecture de plateforme d’émulation et prototypage basée sur le câblage modulaire](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Synopsys-optimisation_cablage.pdf)
 
+ * Maison de la simulation
+   + [Simulations sobres en énergie d'écoulements sur grille à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2022_Gac-Tremblin_stage-AMR_FPGA.pdf)
