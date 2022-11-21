@@ -42,6 +42,9 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Equipe Myriads - Addressing resource and data dynamics for stream data applications in the Edge](http://people.rennes.inria.fr/Shadi.Ibrahim/Opening-Internships.html)
    + [Equipe Myriads - Distributed Burst Buffer System in Collaborative Research](http://people.rennes.inria.fr/Shadi.Ibrahim/Opening-Internships.html)
 
+ * Inria Sophia-Antipolis - Université Côte d'Azur:
+   + [Equipe Kairos - Genération de code source efficace pour le contrôle des systèmes synchrones critiques](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-kairos.pdf)
+
  * EAS Barcelone
    * [Energy Aware Solutions - Performance evaluation of some applications or workflows for a fine grain tuning of EAR energy policies](https://perso.univ-perp.fr/david.defour/Doc/EAS_Internship_Proposal_Oct_2022.pdf)
   
