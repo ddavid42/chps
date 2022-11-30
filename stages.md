@@ -75,3 +75,6 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * Maison de la simulation
    + [Simulations sobres en énergie d'écoulements sur grille à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2022_Gac-Tremblin_stage-AMR_FPGA.pdf)
+
+ * ATOS
+   + [Simuler les performances et les configurations de Supercalculateurs de classe Exaflopique](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Atos-simulation.docx)
