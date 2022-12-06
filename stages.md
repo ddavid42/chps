@@ -52,6 +52,7 @@ et à mesure que nous recevrons de nouveaux sujets.
   
  * CEA Bruyères-le-Châtel
    * [Portage de code sur carte graphique](https://www.emploi.cea.fr/offre-de-emploi/emploi-portage-de-code-sur-carte-graphique_23527.aspx)
+   * [Optimisation d’un code HPC de dynamique moléculaire massivement parallèle](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-stage-cea_molleculaire.pdf)
 
  * Aneo
    + [Amélioration de l'orchestrateur de tâches de calcul ArmoniK (H/F)](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/armonik-1)
