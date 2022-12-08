@@ -28,7 +28,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Equipe Concace - Calcul d'interactions sur GPU par une méthode hiérarchique](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_fmm_gpu/)
    + [Equipe Storm - Detecting Errors in MPI Applications with Deep Learning](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_storm_gnn4ompi/)
    + [Equipe Storm - Support d'exécution à base de tâches et programmation de haut niveau pour la simulation par éléments finis](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_oaumage_fenics_starpu)
-   + [Equipe Storm - Ordonnancement de tâches en considérant la fréquence uncore dans StarPU](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_strom_starpu)
+   + [Equipe Storm - Ordonnancement de tâches en considérant la fréquence uncore dans StarPU](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_storm_starpu)
    + [Equipe Topal/Storm - Energie ou performance : impact de l'implémentation sur la consommation](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_storm_guermouche)
    + [Equipe Storm - Intégration de capacités de calcul quantique dans un support d'exécution à base de tâches](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_oaumage_qiskit_starpu)
    + [Equipe Storm - Parallélisation et équilibrage de chaînes de traitement de signal pour la radio-astronomie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_oaumage_ska_aff3ct)
