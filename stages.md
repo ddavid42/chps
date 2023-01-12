@@ -81,4 +81,4 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Simuler les performances et les configurations de Supercalculateurs de classe Exaflopique](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Atos-simulation.docx)
 
  * Ecole Polytechnique
-   + [Simulation plasma hybride Particle-In-Cell à raffinement de maillage adaptatif] (https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stagePHARE2023.pdf)
+   + [Simulation plasma hybride Particle-In-Cell à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stagePHARE2023.pdf)
