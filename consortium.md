@@ -16,3 +16,10 @@ Le réseau des établissements français délivrant des diplômes reconnus par l
 ## Liens
 - [Trouve Mon Master](https://www.trouvermonmaster.gouv.fr/recherche?q=calcul%20haute%20performance%2C%20simulation)
 - [Fiche RNCP Master CHPS](https://www.francecompetences.fr/recherche/rncp/34120/)
+
+## Contacts
+- Université de Perpignan : david.defour@univ-perp.fr
+- Université de Paris-Saclay : soraya.zertal@uvsq.fr
+- Université de Reims Champagne-Ardenne : luiz-angelo.steffenel@univ-reims.fr
+- ENSEIRB-MATMECA : mathieu.faverge@inria.fr
+- ENSEEITH : ronan.guivarch@toulouse-inp.fr
