@@ -66,6 +66,7 @@ et à mesure que nous recevrons de nouveaux sujets.
  
  * IFPEN - Rueil Malmaison
    + [Abstraction de la vectorisation pour les nouvelles architectures matérielles](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023_stage_IFPEN-R114_INRIA_Lip6.pdf)
+   + [Développement d'un serveur d'inférence pour couplage avec des applications en C++ ou en Python](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_Stage2023_ServeurInference.pdf)
 
  * IRIT - Toulouse
    + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_rnd)
@@ -82,3 +83,6 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * Ecole Polytechnique
    + [Simulation plasma hybride Particle-In-Cell à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stagePHARE2023.pdf)
+
+ * Bureau de Recherches Géologiques et Minières (BRGM)
+   + [Accélération matérielle des codes de modélisation 3D](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_potentiel_sur_GPU_2023.pdf) 
