@@ -70,6 +70,9 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * IRIT - Toulouse
    + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023_rnd)
+  
+ * ALLIANTECH -Toulouse
+   + [Proposition de stage en IA et Réalité Augmenté](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_IA_Realite_Augmente_2023.pdf)
 
  * Synopsys - Wissous
    + [Analyse de chemins combinatoires inter-FPGAs, aide au partitionnement](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-Synopsys-chemin-combi.pdf)
