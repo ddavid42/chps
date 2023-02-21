@@ -18,8 +18,8 @@ Le réseau des établissements français délivrant des diplômes reconnus par l
 - [Fiche RNCP Master CHPS](https://www.francecompetences.fr/recherche/rncp/34120/)
 
 ## Contacts
-- Université de Perpignan : david.defour@univ-perp.fr
-- Université de Paris-Saclay : soraya.zertal@uvsq.fr
-- Université de Reims Champagne-Ardenne : luiz-angelo.steffenel@univ-reims.fr
-- ENSEIRB-MATMECA : mathieu.faverge@inria.fr
-- ENSEEITH : ronan.guivarch@toulouse-inp.fr
+- Université de Perpignan : David Defour, david.defour@univ-perp.fr
+- Université de Paris-Saclay : Soraya Zertal, soraya.zertal@uvsq.fr
+- Université de Reims Champagne-Ardenne : Luiz Angelo Steffenel, luiz-angelo.steffenel@univ-reims.fr
+- ENSEIRB-MATMECA : Mathieu Faverge et Raymond Namyst, resp_option_cisd@enseirb-matmeca.fr
+- ENSEEITH : Ronan Guivarch, ronan.guivarch@toulouse-inp.fr

@@ -89,3 +89,7 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * Bureau de Recherches Géologiques et Minières (BRGM)
    + [Accélération matérielle des codes de modélisation 3D](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_potentiel_sur_GPU_2023.pdf) 
+
+ * Algo'doers
+   + [**Offre de CDD** - Ingénieur R&D](https://mfaverge.vvv.enseirb-matmeca.fr/pfe/offres/2022/2023-offre-algodoers.pdf)
+
