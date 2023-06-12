@@ -97,4 +97,7 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * Centre Inria de l'Université de Bordeaux
    + [Engineer F/M: Benchmarking of applications'I/O behavior and storage systems (performance and energy consumption)](https://jobs.inria.fr/public/classic/fr/offres/2023-05769)
-   
+
+ * CEA Saclay 
+   + [**Offre de Thèse**]
+   * [Modélisation de la diffusion atomique et de la dynamique d’amas de défauts dans des aciers alliés](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_these_cea_saclay_2023.pdf) 
