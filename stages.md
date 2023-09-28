@@ -13,4 +13,4 @@ et à mesure que nous recevrons de nouveaux sujets.
 
 ## Liens vers les années précédentes
 
-  * [Liste des offres 2022-2023](stages2022)
+  * [Liste des offres 2022-2023](../stages2022)
