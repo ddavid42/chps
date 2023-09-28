@@ -5,7 +5,7 @@ permalink: /stages/
 ---
 
 Nous recencons ici les propositions de stages que
-nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l'année 2022-2023, et la liste ci-dessous sera mise à jour au fur
+nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l'année 2023-2024, et la liste ci-dessous sera mise à jour au fur
 et à mesure que nous recevrons de nouveaux sujets.
 
  * CEA CESTA - Le Barp
