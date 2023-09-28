@@ -1,10 +1,17 @@
 ---
 layout: page
-title: Séminaires 2022-2023
+title: Séminaires
 permalink: /seminaires/
 ---
 
-Planning des séminaires du réseau pour l'année universitaire 2022-2023 :
+##  Planning des séminaires du réseau pour l'année universitaire 2023-2024 :
+
+- 10 octobre 10h-11h : A venir
+- 7 novembre 10h-11h : A venir
+- 5 décembre 10h-11h : A venir
+- 16 Janvier 16h-17h : A venir
+
+##  Planning des séminaires du réseau pour l'année universitaire 2022-2023 :
 
 - 4 octobre 10h-11h : Luigi Brochard (https://www.eas4dc.com), [Energy Efficient Datacenters](/doc/sem_EAS_041022.pdf)
 - 8 novembre 10h-11h : Antoine Jégo (https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/), [Task-Based Programming Models For Scalable Algorithms: Application to Matrix Multiplication](/doc/sem_Jego_081122.pdf)
