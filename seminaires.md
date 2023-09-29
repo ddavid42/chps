@@ -6,9 +6,9 @@ permalink: /seminaires/
 
 ##  Planning des séminaires du réseau pour l'année universitaire 2023-2024 :
 
-- 10 octobre 10h : Patrick Carribault, _Vision française et européenne du HPC_
-- 7 novembre 10h : A définir, Aspect juridique du HPC
-- 12 décembre 10h : Philippe Deniel; _Calcul Quantique_
+- 10 octobre  10h15 : Patrick Carribault, _Vision française et européenne du HPC_
+-  7 novembre 10h15 : A définir, Aspect juridique du HPC
+- 12 décembre 10h15 : Philippe Deniel; _Calcul Quantique_
 - 16 Janvier 16h : Eric Petit, _IA génératives (LLM)_
 
 ##  Planning des séminaires du réseau pour l'année universitaire 2022-2023 :
