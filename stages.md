@@ -12,7 +12,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Reconstruction par "machine learning" des sections efficaces dans un code de neutronique](https://files.inria.fr/pastix/internships/2023/LPEC_machine_learning_2023-2024.pdf)
 
  * Laboratoire de Physique des Plasmas - Ecole Polytechnique - Palaiseau.
-    [Simulation plasma hybride Particle-In-Cell à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stagePHARE2024_hpc-2.pdf)
+    * [Simulation plasma hybride Particle-In-Cell à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stagePHARE2024_hpc-2.pdf)
 
 ## Liens vers les années précédentes
 
