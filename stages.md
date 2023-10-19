@@ -26,6 +26,18 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Neuromorphic-based optimization algorithm](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Inria_Bonus_IA2.pdf)
    * [Exascale optimization using Fractal-based decomposition](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Inria_Bonus_Exama1.pdf)
 
+ * Nvidia 
+   * [Compute Performance DevTech Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Compute-Performance-DevTech-Intern_JR1972897?q=JR1972897&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
+   * [CUDA Math Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Compute-Performance-DevTech-Intern_JR1972897?q=CUDA%20Math%20Libraries%20Intern&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
+   * [HPC Visualization Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Compute-Performance-DevTech-Intern_JR1972897?q=%20HPC%20Visualization%20Intern&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
+   * [Tous les stages NVidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
+
+ * CERFACS / ONERA / LISN
+   * [Algorithmes d’estimation de probabilité de défaillance utilisant des méta-modèles multi-fidélité, dans un contexte d’hydrodynamique fluviale](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf)
+
+ * Inria Sophia-Antipolis - Université Côte d'Azur
+   * [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_allocregcrypto)
+   * [Résolution de problèmes entiers paramétriques linéaires par SAT](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_resolsat)
 
 ## Liens vers les années précédentes
 
