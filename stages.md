@@ -14,6 +14,9 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Comparaison d'implementations du produit scalaire dot2 bases sur intrinsics x86, eigen et kokkos.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/LCAN_dot2_2023-2024.pdf)
    * [Reconstruction par "machine learning" des sections efficaces dans un code de neutronique](https://files.inria.fr/pastix/internships/2023/LPEC_machine_learning_2023-2024.pdf)
 
+  * RTE - Jonage
+    * [Résolution de systèmes linéaires creux pour la simulation de réseaux électriques - F/H](https://www.rte-france.com/carrieres/nos-offres/stage-pfe-resolution-systemes-lineaires-creux-simulation-reseaux-electriques-f)
+
  * Laboratoire de Physique des Plasmas - Ecole Polytechnique - Palaiseau.
     * [Simulation plasma hybride Particle-In-Cell à raffinement de maillage adaptatif](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stagePHARE2024_hpc-2.pdf)
 
