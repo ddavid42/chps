@@ -55,3 +55,11 @@ et à mesure que nous recevrons de nouveaux sujets.
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
+
+## Offres d'emploi
+
+ * Aneo
+   * [Consultant DevOps Cloud H/F](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantDevOpsCloud.pdf)
+   * [Consultant Cloud et Systèmes Distribués H/F}(https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud_SystDistribue.pdf)
+   * [Consultant Cloud H/F](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud.pdf)
+
