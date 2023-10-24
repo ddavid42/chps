@@ -48,6 +48,10 @@ et à mesure que nous recevrons de nouveaux sujets.
  * CEA Bruyères-le-Chatel
    * [Portage du code STRATOSPEC sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_stratospec.pdf)
 
+ * Aneo
+   * [Conception et mise en place d’un système autoscalable](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Conception_Systeme_Autoscable.pdf)
+   * [Mise en place d’un outil de débogage pour Visual Studio (ou VScode)](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Debogage_Visual_Studio.pdf)
+   
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
