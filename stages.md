@@ -42,6 +42,12 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_allocregcrypto)
    * [Résolution de problèmes entiers paramétriques linéaires par SAT](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_resolsat)
 
+ * IRIT - Toulouse
+   * [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/iritrangfaible)
+
+ * CEA Bruyères-le-Chatel
+   * [Portage du code STRATOSPEC sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_stratospec.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
