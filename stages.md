@@ -52,6 +52,10 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Conception et mise en place d’un système autoscalable](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Conception_Systeme_Autoscable.pdf)
    * [Mise en place d’un outil de débogage pour Visual Studio (ou VScode)](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Debogage_Visual_Studio.pdf)
    
+ * CEA Cadarache - Saint-Paul lez Durance
+   * [Optimisation d'un solveur mécanique GPU basé sur MFEM](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/IRESNE_solveur_mecanique.pdf)
+   * [Catalogue des stages CEA/IRESNE](https://www.cea.fr/energies/iresne/Documents/6%20Carri%C3%A8re/Offres%20de%20stages%20IRESNE%202024%20-%20Fr%20%26%20eng.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
