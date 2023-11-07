@@ -29,6 +29,10 @@ et à mesure que nous recevrons de nouveaux sujets.
    * [Neuromorphic-based optimization algorithm](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Inria_Bonus_IA2.pdf)
    * [Exascale optimization using Fractal-based decomposition](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Inria_Bonus_Exama1.pdf)
 
+ * LIP6 - Paris 
+   * [Résolution de systèmes linéaires creux par méthodes de Krylov en précision mixte modulaires et adaptatives](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_LIP6_InriaBordeaux.pdf)
+   * [Résolution de grands systèmes linéaires creux par méthodes de décomposition en domaines en précision mixte](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_LIP6_LJLL.pdf)
+
  * Nvidia 
    * [Compute Performance DevTech Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Compute-Performance-DevTech-Intern_JR1972897?q=JR1972897&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
    * [CUDA Math Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Compute-Performance-DevTech-Intern_JR1972897?q=CUDA%20Math%20Libraries%20Intern&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
