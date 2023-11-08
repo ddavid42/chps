@@ -97,8 +97,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * LIP / ENS Lyon
    + [Fault-tolerant numerical iterative algorithms at scale](https://graal.ens-lyon.fr/~abenoit/M2-Roma-Concace.pdf)
- * TSP
-   + [Fine grain energy consumption measurement](tsp_finegrain_energy_consumption_measurement.pdf)
+
+ * Télécom Sud-Paris
+   + [Fine grain energy consumption measurement](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/tsp_finegrain_energy_consumption_measurement.pdf)
 
 ## Liens vers les années précédentes
 
