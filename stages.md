@@ -41,6 +41,8 @@ et à mesure que nous recevrons de nouveaux sujets.
 
  * CERFACS / ONERA / LISN
    * [Algorithmes d’estimation de probabilité de défaillance utilisant des méta-modèles multi-fidélité, dans un contexte d’hydrodynamique fluviale](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf)
+   * [Mise en place d’un système couplé océan-atmosphère avec le logiciel XIOS](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_oasis_XIOS.pdf)
+   * [Analyse de la stratégie optimale en calcul haute performance pour accélérer les calculs en mécanique des fluides sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_CFD_Accelere.pdf)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
    * [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_allocregcrypto)
@@ -55,10 +57,45 @@ et à mesure que nous recevrons de nouveaux sujets.
  * Aneo
    * [Conception et mise en place d’un système autoscalable](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Conception_Systeme_Autoscable.pdf)
    * [Mise en place d’un outil de débogage pour Visual Studio (ou VScode)](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Debogage_Visual_Studio.pdf)
-   
+   * [Diagnostique de l’avancement de la production d’un résultat et de ses dépendances](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Aneo_Diagnostique_Avancement_Production.pdf)
+
  * CEA Cadarache - Saint-Paul lez Durance
    * [Optimisation d'un solveur mécanique GPU basé sur MFEM](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/IRESNE_solveur_mecanique.pdf)
    * [Catalogue des stages CEA/IRESNE](https://www.cea.fr/energies/iresne/Documents/6%20Carri%C3%A8re/Offres%20de%20stages%20IRESNE%202024%20-%20Fr%20%26%20eng.pdf)
+
+ * Eviden (ex-Atos)
+   * [Développement d’un driver SYCL optimisé pour la mise en œuvre du modèle STF sur des supercalculateurs de classe Exaflopique.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Eviden_sycl.pdf)
+   * [Simuler les performances et les configurations de Supercalculateursde classe Exaflopique.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Eviden_Simulation.pdf)
+
+ * Centre Inria de l'Université de Bordeaux
+   + Equipe Tadaam
+	 - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_StarPU_NewMadeleine.html)
+	 - [Simulation des communications de NewMadeleine avec SimGrid](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_simgrid.html
+     - [The impact of the number of storage targets on performance in the access to parallel file systems](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/tadaam_IO)
+   + Equipe Storm
+     - [ML4SPO: Machine Learning for Search Space Optimization](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_storm_explo_ml)
+	 - [Auto-génération de routines pour une bibliothèque d'abstraction de fonctions intrinsèques SIMD](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_mipp)
+	 - [Support d'exécution à base de tâches et programmation de haut niveau pour la simulation par éléments finis](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_fenics_starpu)
+	 - [Exécution et ordonnancement d'applications dominées par le flux des données sur plateformes multicoeurs.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_ska_aff3ct)
+   + Equipe CONCACE
+     - [Preuves de stabilité numériques sous perturbation en norme](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-normwise-perturbation-framework.pdf)
+     - [Composabilité des modèles d’exécution](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-runtime.pdf)
+     - [Apprentissage non supervisé par approches spectrales](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_Apprentissage-non-supervise-par-approches-spectrales.pdf)
+     - [Abstraction des méthodes de sous-espaces de type Krylov](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-krylov.pdf)
+     - [Unification des méthodes hiérarchiques pour le traitement
+systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-fmm.pdf)
+
+ * I2M - Institut de Mécanique et d'Ingénierie de Bordeaux
+   + [Génération parallèle de maillages polyédriques de Voronoï 3D](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/2024-CEA-Voronoi-fr.pdf)
+
+ * LIG Grenoble
+   + Equipe POLARIS
+	 - [Trace collection and analysis for ExaScale](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/POLARIS_trace.pdf)
+
+ * LIP / ENS Lyon
+   + [Fault-tolerant numerical iterative algorithms at scale](https://graal.ens-lyon.fr/~abenoit/M2-Roma-Concace.pdf)
+ * TSP
+   + [Fine grain energy consumption measurement](tsp_finegrain_energy_consumption_measurement.pdf)
 
 ## Liens vers les années précédentes
 
