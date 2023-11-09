@@ -45,11 +45,11 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Analyse de la stratégie optimale en calcul haute performance pour accélérer les calculs en mécanique des fluides sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_CFD_Accelere.pdf)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
-   + [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_allocregcrypto)
-   + [Résolution de problèmes entiers paramétriques linéaires par SAT](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/inrianca_resolsat)
+   + [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/inrianca_allocregcrypto)
+   + [Résolution de problèmes entiers paramétriques linéaires par SAT](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/inrianca_resolsat)
 
  * IRIT - Toulouse
-   + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/iritrangfaible)
+   + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/iritrangfaible)
    + [Real-time phase detection for large-scale HPC applications](https://www.irit.fr/~Georges.Da-Costa/post/2023_master_1_numpex/)
    + [Real-time distributed system (hardware performance counters, RAPL, ...) monitoring for HPC](https://www.irit.fr/~Georges.Da-Costa/post/2023_master_2_numpex/)
    + [Sustainable monitoring of large-scale HPC applications: Reducing data amount to save energy](https://www.irit.fr/~Georges.Da-Costa/post/2023_master_3_numpex/)
@@ -74,7 +74,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + Equipe Tadaam
 	 - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_StarPU_NewMadeleine.html)
 	 - [Simulation des communications de NewMadeleine avec SimGrid](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_simgrid.html)
-     - [The impact of the number of storage targets on performance in the access to parallel file systems](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/tadaam_IO)
+     - [The impact of the number of storage targets on performance in the access to parallel file systems](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/tadaam_io)
    + Equipe Storm
      - [ML4SPO: Machine Learning for Search Space Optimization](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_storm_explo_ml)
 	 - [Auto-génération de routines pour une bibliothèque d'abstraction de fonctions intrinsèques SIMD](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_mipp)
@@ -87,6 +87,11 @@ et à mesure que nous recevrons de nouveaux sujets.
      - [Abstraction des méthodes de sous-espaces de type Krylov](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-krylov.pdf)
      - [Unification des méthodes hiérarchiques pour le traitement
 systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-fmm.pdf)
+   + Equipe TOPAL
+     - [Exploiting mixed-precision to speed-up applications](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_chameleon_mixed)
+     - [Extension d'une bibliothèque d'algèbre linaire dense à la contraction de tenseurs.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_chameleon_tenseur)
+     - [Implémentation d'un algorithme de décomposition polaire à grande échelle](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_chameleon_zolo)
+     - [Exploiting hierarchical task submission within sparse direct solvers](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_pastix_hierarchical)
 
  * I2M - Institut de Mécanique et d'Ingénierie de Bordeaux
    + [Génération parallèle de maillages polyédriques de Voronoï 3D](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/2024-CEA-Voronoi-fr.pdf)
