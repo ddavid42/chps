@@ -80,6 +80,7 @@ et à mesure que nous recevrons de nouveaux sujets.
 	 - [Auto-génération de routines pour une bibliothèque d'abstraction de fonctions intrinsèques SIMD](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_mipp)
 	 - [Support d'exécution à base de tâches et programmation de haut niveau pour la simulation par éléments finis](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_fenics_starpu)
 	 - [Exécution et ordonnancement d'applications dominées par le flux des données sur plateformes multicoeurs.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_ska_aff3ct)
+	 - [Tolérance aux pannes pour applications à bases de tâches](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_starpu-checkpoint-restart)
    + Equipe CONCACE
      - [Preuves de stabilité numériques sous perturbation en norme](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-normwise-perturbation-framework.pdf)
      - [Composabilité des modèles d’exécution](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_compose-runtime.pdf)
@@ -105,6 +106,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * Télécom Sud-Paris
    + [Fine grain energy consumption measurement](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/tsp_finegrain_energy_consumption_measurement.pdf)
+
+ * Altair
+   + [Partitionnement de maillage dans Altair Flux](https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=ALTAENGI&cws=39&rid=44633)
 
 ## Liens vers les années précédentes
 
