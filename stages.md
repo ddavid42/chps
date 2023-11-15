@@ -14,7 +14,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Comparaison d'implementations du produit scalaire dot2 bases sur intrinsics x86, eigen et kokkos.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/LCAN_dot2_2023-2024.pdf)
    + [Reconstruction par "machine learning" des sections efficaces dans un code de neutronique](https://files.inria.fr/pastix/internships/2023/LPEC_machine_learning_2023-2024.pdf)
    + [Exploration des fonctionnalités du C++ Standard Parallelism pour la programmation GPU](https://mdls.fr/job-internship-exploration-des-fonctionnalites-du-c-standard-parallelism-pour-la-programmation-gpu/) à la Maison de la simulation
-   + [Catalogue des stages](https://files.inria.fr/pastix/internships/2023/CEA_saclay.pdf)
+   + [Catalogue des stages](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_saclay.pdf)
 
  * RTE - Jonage
    + [Résolution de systèmes linéaires creux pour la simulation de réseaux électriques - F/H](https://www.rte-france.com/carrieres/nos-offres/stage-pfe-resolution-systemes-lineaires-creux-simulation-reseaux-electriques-f)
