@@ -45,6 +45,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Algorithmes d’estimation de probabilité de défaillance utilisant des méta-modèles multi-fidélité, dans un contexte d’hydrodynamique fluviale](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS-ONERA-LISN_metamodelmultifi_hydro.pdf)
    + [Mise en place d’un système couplé océan-atmosphère avec le logiciel XIOS](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_oasis_XIOS.pdf)
    + [Analyse de la stratégie optimale en calcul haute performance pour accélérer les calculs en mécanique des fluides sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_CFD_Accelere.pdf)
+   + [Simulation of a decarbonised industrial process using hydrogen](https://cerfacs.fr/en/offer/simulation-of-a-decarbonised-industrial-process-using-hydrogen-saint-gobain-isover-cerfacs)
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_catalogue_2024.pdf)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
@@ -78,6 +79,7 @@ et à mesure que nous recevrons de nouveaux sujets.
 	 - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_StarPU_NewMadeleine.html)
 	 - [Simulation des communications de NewMadeleine avec SimGrid](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_simgrid.html)
 	 - [The impact of the number of storage targets on performance in the access to parallel file systems](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/tadaam_io)
+	 - [Optimisation du traitement et du stockage de donnée pour SKA](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Stage_SKA_SDP_2024.pdf)
    + Equipe Storm
 	 - [ML4SPO: Machine Learning for Search Space Optimization](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2023_storm_explo_ml)
 	 - [Auto-génération de routines pour une bibliothèque d'abstraction de fonctions intrinsèques SIMD](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2023/2024_oaumage_mipp)
