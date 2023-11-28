@@ -51,6 +51,7 @@ et à mesure que nous recevrons de nouveaux sujets.
  * Inria Sophia-Antipolis - Université Côte d'Azur
    + [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/inrianca_allocregcrypto)
    + [Résolution de problèmes entiers paramétriques linéaires par SAT](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/inrianca_resolsat)
+   + [Méthode de collocation en environnement paralléle pour la simulation intensive d’écoulements stratifiés](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_M2_AbideMarcotte2023.pdf)
 
  * IRIT - Toulouse
    + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/iritrangfaible)
