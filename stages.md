@@ -54,7 +54,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Méthode de collocation en environnement paralléle pour la simulation intensive d’écoulements stratifiés](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_M2_AbideMarcotte2023.pdf)
 
  * IRIT - Toulouse
-   + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/iritrangfaible)
+   + [Méthodes d'approximation de rang faible randomisées en précision mixte](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_rnd_en-2023.pdf)
    + [Real-time phase detection for large-scale HPC applications](https://www.irit.fr/~Georges.Da-Costa/post/2023_master_1_numpex/)
    + [Real-time distributed system (hardware performance counters, RAPL, ...) monitoring for HPC](https://www.irit.fr/~Georges.Da-Costa/post/2023_master_2_numpex/)
    + [Sustainable monitoring of large-scale HPC applications: Reducing data amount to save energy](https://www.irit.fr/~Georges.Da-Costa/post/2023_master_3_numpex/)
