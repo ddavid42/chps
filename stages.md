@@ -15,6 +15,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Reconstruction par "machine learning" des sections efficaces dans un code de neutronique](https://files.inria.fr/pastix/internships/2023/LPEC_machine_learning_2023-2024.pdf)
    + [Exploration des fonctionnalités du C++ Standard Parallelism pour la programmation GPU](https://mdls.fr/job-internship-exploration-des-fonctionnalites-du-c-standard-parallelism-pour-la-programmation-gpu/) à la Maison de la simulation
    + [Catalogue des stages](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_saclay.pdf)
+   + [Second catalogue des stages](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_saclay_bis.pdf)
 
  * RTE - Jonage
    + [Résolution de systèmes linéaires creux pour la simulation de réseaux électriques - F/H](https://www.rte-france.com/carrieres/nos-offres/stage-pfe-resolution-systemes-lineaires-creux-simulation-reseaux-electriques-f)
@@ -46,6 +47,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Mise en place d’un système couplé océan-atmosphère avec le logiciel XIOS](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_oasis_XIOS.pdf)
    + [Analyse de la stratégie optimale en calcul haute performance pour accélérer les calculs en mécanique des fluides sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_CFD_Accelere.pdf)
    + [Simulation of a decarbonised industrial process using hydrogen](https://cerfacs.fr/en/offer/simulation-of-a-decarbonised-industrial-process-using-hydrogen-saint-gobain-isover-cerfacs)
+   + [Ammonia-Hydrogen Reactive LES of a Gas Turbine Burner](https://cerfacs.fr/en/offer/ammonia-hydrogen-reactive-les-of-a-gas-turbine-burner/)
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_catalogue_2024.pdf)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
@@ -109,6 +111,7 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * LIP / ENS Lyon
    + [Fault-tolerant numerical iterative algorithms at scale](https://graal.ens-lyon.fr/~abenoit/M2-Roma-Concace.pdf)
+   + [Composability and Data Partitioning in High Performance Computing](https://avalon.ens-lyon.fr/~cperez/doc/m2_2024.pdf)
 
  * Télécom Sud-Paris
    + [Fine grain energy consumption measurement](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/tsp_finegrain_energy_consumption_measurement.pdf)
@@ -118,6 +121,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * ONERA
    + [Data-assimilation implementation for CFD optimization procedures in compressible regime](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/ONERA_cfd_compressible.pdf), en collaboration avec l'équipe Inria MEMPHIS de Bordeaux
+
+ * CEA Grenoble
+   + [Outil Python pour la détermination de contrainte dans des structures type FDSOI](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_Python-RSM.pdf)
 
 ## Liens vers les années précédentes
 
@@ -130,3 +136,7 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
    + [Consultant Cloud et Systèmes Distribués H/F}(https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud_SystDistribue.pdf)
    + [Consultant Cloud H/F](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud.pdf)
 
+ * CEA
+   + [Contribution au développement de la bibliothèque de calcul GPU Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_dev.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
+   + [Déploiement et CI sur supercalculateurs pour la bibliothèque C++ Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_devops.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
+   
