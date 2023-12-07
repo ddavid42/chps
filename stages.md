@@ -76,7 +76,8 @@ et à mesure que nous recevrons de nouveaux sujets.
  * Eviden (ex-Atos)
    + [Développement d’un driver SYCL optimisé pour la mise en œuvre du modèle STF sur des supercalculateurs de classe Exaflopique.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Eviden_sycl.pdf)
    + [Simuler les performances et les configurations de Supercalculateursde classe Exaflopique.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Eviden_Simulation.pdf)
-
+   + [Stage - Ingénieur R&D : HPC performance des collectives dans Open MPI H/F - Grenoble](https://jobs.atos.net/job-invite/497432/)
+   
  * Centre Inria de l'Université de Bordeaux
    + Equipe Tadaam
 	 - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_StarPU_NewMadeleine.html)
