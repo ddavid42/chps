@@ -130,6 +130,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * SAFRAN
    + [Mesure d'épaisseur de paroi d'une aube superalliage à géométrie complexe F/H](https://www.safran-group.com/fr/offres/france/colombes/stage-mesure-epaisseur-paroi-aube-superalliage-geometrie-complexe-fh-130725)
 
+ * CEA CESTA - Le Barp / Bordeaux
+   + [Optimisations de la parallélisation d'un code de simulation de furtivité électromagnétique](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_furtivite.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
