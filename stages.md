@@ -32,7 +32,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Neuromorphic-based optimization algorithm](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Inria_Bonus_IA2.pdf)
    + [Exascale optimization using Fractal-based decomposition](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Inria_Bonus_Exama1.pdf)
 
- * LIP6 - Paris 
+ * LIP6 - Paris
    + [Résolution de systèmes linéaires creux par méthodes de Krylov en précision mixte modulaires et adaptatives](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_LIP6_InriaBordeaux.pdf)
    + [Résolution de grands systèmes linéaires creux par méthodes de décomposition en domaines en précision mixte](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_LIP6_LJLL.pdf)
 
@@ -48,6 +48,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Analyse de la stratégie optimale en calcul haute performance pour accélérer les calculs en mécanique des fluides sur GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_CFD_Accelere.pdf)
    + [Simulation of a decarbonised industrial process using hydrogen](https://cerfacs.fr/en/offer/simulation-of-a-decarbonised-industrial-process-using-hydrogen-saint-gobain-isover-cerfacs)
    + [Ammonia-Hydrogen Reactive LES of a Gas Turbine Burner](https://cerfacs.fr/en/offer/ammonia-hydrogen-reactive-les-of-a-gas-turbine-burner/)
+   + [Parallel solvers for a Discontinuous Galerkin time stepping scheme of the viscoelastic wave equation](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Cerfacs_solverGD.pdf)
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_catalogue_2024.pdf)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
@@ -77,7 +78,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Développement d’un driver SYCL optimisé pour la mise en œuvre du modèle STF sur des supercalculateurs de classe Exaflopique.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Eviden_sycl.pdf)
    + [Simuler les performances et les configurations de Supercalculateursde classe Exaflopique.](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/Eviden_Simulation.pdf)
    + [Stage - Ingénieur R&D : HPC performance des collectives dans Open MPI H/F - Grenoble](https://jobs.atos.net/job-invite/497432/)
-   
+
  * Centre Inria de l'Université de Bordeaux
    + Equipe Tadaam
 	 - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2024_StarPU_NewMadeleine.html)
@@ -127,7 +128,7 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
    + [Outil Python pour la détermination de contrainte dans des structures type FDSOI](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_Python-RSM.pdf)
 
  * SAFRAN
-   + [Mesure d'épaisseur de paroi d'une aube superalliage à géométrie complexe F/H](https://www.safran-group.com/fr/offres/france/colombes/stage-mesure-epaisseur-paroi-aube-superalliage-geometrie-complexe-fh-130725) 
+   + [Mesure d'épaisseur de paroi d'une aube superalliage à géométrie complexe F/H](https://www.safran-group.com/fr/offres/france/colombes/stage-mesure-epaisseur-paroi-aube-superalliage-geometrie-complexe-fh-130725)
 
 ## Liens vers les années précédentes
 
@@ -143,4 +144,3 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * CEA
    + [Contribution au développement de la bibliothèque de calcul GPU Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_dev.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
    + [Déploiement et CI sur supercalculateurs pour la bibliothèque C++ Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_devops.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
-   
