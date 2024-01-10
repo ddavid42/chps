@@ -133,6 +133,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * CEA CESTA - Le Barp / Bordeaux
    + [Optimisations de la parallélisation d'un code de simulation de furtivité électromagnétique](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_furtivite.pdf)
 
+ * Laboratoire POems - ENSTA Paris
+   + [Lazy H-matrix factorisation: shared memory parallelism based on a dataflow approach](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/hmatrix-project.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
