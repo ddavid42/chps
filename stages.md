@@ -136,6 +136,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * Laboratoire POems - ENSTA Paris
    + [Lazy H-matrix factorisation: shared memory parallelism based on a dataflow approach](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/hmatrix-project.pdf)
 
+ * LISN - Paris
+   + [Development of mixed-precision matrix multiplication kernels for GPUs](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/mixed-precision-gpu.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2022-2023](../stages2022)
