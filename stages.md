@@ -153,3 +153,6 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * CEA
    + [Contribution au développement de la bibliothèque de calcul GPU Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_dev.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
    + [Déploiement et CI sur supercalculateurs pour la bibliothèque C++ Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_devops.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
+
+ * TotaLinuX
+   + [CDI Administrateur système HPC](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AdministrateurSystemeHPC.pdf)
