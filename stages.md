@@ -140,6 +140,8 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * LISN - Paris
    + [Development of mixed-precision matrix multiplication kernels for GPUs](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/mixed-precision-gpu.pdf)
 
+ * BlueMapping - Paris
+    +[Prévention des inondations et du ruissellement pluvial] (https://perso.univ-perp.fr/david.defour/Doc/RCHPS_Bluemapping_2023.pdf)
 
 ## Liens vers les années précédentes
 
