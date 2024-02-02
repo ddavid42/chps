@@ -49,6 +49,7 @@ et à mesure que nous recevrons de nouveaux sujets.
    + [Simulation of a decarbonised industrial process using hydrogen](https://cerfacs.fr/en/offer/simulation-of-a-decarbonised-industrial-process-using-hydrogen-saint-gobain-isover-cerfacs)
    + [Ammonia-Hydrogen Reactive LES of a Gas Turbine Burner](https://cerfacs.fr/en/offer/ammonia-hydrogen-reactive-les-of-a-gas-turbine-burner/)
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CERFACS_catalogue_2024.pdf)
+   + [Parallel solvers for a Discontinuous Galerkin time stepping scheme of the viscoelastic wave equation](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_cerfacs2023.pdf)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
    + [Allocation de registres pour langage dédié à la cryptographie](https://cours-mf.gitlabpages.inria.fr/pfe/page/offres/2023/inrianca_allocregcrypto)
@@ -128,6 +129,7 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * SAFRAN
    + [Mesure d'épaisseur de paroi d'une aube superalliage à géométrie complexe F/H](https://www.safran-group.com/fr/offres/france/colombes/stage-mesure-epaisseur-paroi-aube-superalliage-geometrie-complexe-fh-130725) 
+
 
 ## Liens vers les années précédentes
 
