@@ -151,12 +151,15 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * Aneo
    + [Consultant DevOps Cloud H/F](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantDevOpsCloud.pdf)
-   + [Consultant Cloud et Systèmes Distribués H/F}(https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud_SystDistribue.pdf)
+   + [Consultant Cloud et Systèmes Distribués H/F](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud_SystDistribue.pdf)
    + [Consultant Cloud H/F](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AneoConsultantCloud.pdf)
 
  * CEA
    + [Contribution au développement de la bibliothèque de calcul GPU Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_dev.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
    + [Déploiement et CI sur supercalculateurs pour la bibliothèque C++ Kokkos au sein du projet « Moonshot » CExA](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/CEA_devops.pdf) - CDD de 2 ans pouvant évoluer en CDI/thèse
+
+ * CERFACS
+   + [Ingénieur de recherche et innovation en HPC](https://cerfacs.fr/offer/ingenieur-de-recherche-permanent-specialise-dans-linnovation-pour-le-hpc/)
 
  * TotaLinuX
    + [CDI Administrateur système HPC](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AdministrateurSystemeHPC.pdf)
