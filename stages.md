@@ -134,7 +134,7 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
  * CEA CESTA - Le Barp / Bordeaux
    + [Optimisations de la parallélisation d'un code de simulation de furtivité électromagnétique](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CEA_furtivite.pdf)
 
- * Laboratoire POems - ENSTA Paris
+ * Laboratoire POems - ENSTA Parishttps://emploi.cnrs.fr/Offres/CDD/UMR9014-JEALAV0-017/
    + [Lazy H-matrix factorisation: shared memory parallelism based on a dataflow approach](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/hmatrix-project.pdf)
 
  * LISN - Paris
@@ -162,7 +162,7 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
    + [Ingénieur de recherche et innovation en HPC](https://cerfacs.fr/offer/ingenieur-de-recherche-permanent-specialise-dans-linnovation-pour-le-hpc/)
   
  * Laboratoire de Mécanique des Fluides de Lille
-   + [Ingénieur de recherche HPC](https://emploi.cnrs.fr/Offres/CDD/UMR9014-JEALAV0-017/)
+   + [Ingénieur de recherche HPC](https://emploi.cnrs.fr/Offres/CDD/UMR9014-JEALAV0-017/Default.aspx)
 
  * TotaLinuX
    + [CDI Administrateur système HPC](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AdministrateurSystemeHPC.pdf)
