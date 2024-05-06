@@ -160,6 +160,9 @@ systèmes linéaires](https://cisd.enseirb-matmeca.fr/pfe/offres/2023/CONCACE_co
 
  * CERFACS
    + [Ingénieur de recherche et innovation en HPC](https://cerfacs.fr/offer/ingenieur-de-recherche-permanent-specialise-dans-linnovation-pour-le-hpc/)
+  
+ * Laboratoire de Mécanique des Fluides de Lille
+   + [Ingénieur de recherche HPC](https://emploi.cnrs.fr/Offres/CDD/UMR9014-JEALAV0-017/)
 
  * TotaLinuX
    + [CDI Administrateur système HPC](https://cisd.enseirb-matmeca.fr/pfe/offres/CDI/AdministrateurSystemeHPC.pdf)
