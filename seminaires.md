@@ -6,10 +6,10 @@ permalink: /seminaires/
 
 ##  Planning des séminaires du réseau pour l'année universitaire 2024-2025 :
 
-- 15 Octobre  10h20: to be defined 
+-  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
 - 12 Novembre 10h20: to be defined
 - 10 Décembre 10h20: to be defined
-- 21 Janvier  10h20: to be defined
+- 28 Janvier  10h20: to be defined
 
 ##  Planning des séminaires du réseau pour l'année universitaire 2023-2024 :
 
