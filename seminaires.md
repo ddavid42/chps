@@ -4,21 +4,27 @@ title: Séminaires
 permalink: /seminaires/
 ---
 
-##  Planning des séminaires du réseau pour l'année universitaire 2024-2025 :
+## Année universitaire 2024-2025
 
--  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
-- 12 Novembre 10h20: to be defined
-- 10 Décembre 10h20: to be defined
-- 28 Janvier  10h20: C. Foyer, _Mémoire hétérogènes et placement de données_
+### Séminaires commun
 
-##  Planning des séminaires du réseau pour l'année universitaire 2023-2024 :
+  -  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
+  - 12 Novembre 10h20: to be defined
+  - 10 Décembre 10h20: to be defined
+  - 28 Janvier  10h20: C. Foyer, _Mémoire hétérogènes et placement de données_
+
+### Hackathon Teratec
+
+Les membres du réseau participent au [Hackathon Teratec](https://teratec.eu/activites/Hackathon.html) qui aura lieu du _20 au 24 Janvier 2025_.
+
+## Année universitaire 2023-2024
 
 - 10 octobre  10h15 : Patrick Carribault, _Vision française et européenne du HPC_
 -  7 novembre 11h00 : François Pellegrini, _Du droit dans le Calcul Haute Performance Et des bonnes pratiques, aussi..._
 - 12 décembre 10h15 : Philippe Deniel; _Calcul Quantique_
 - 16 Janvier 16h : Eric Petit, _IA génératives (LLM)_
 
-##  Planning des séminaires du réseau pour l'année universitaire 2022-2023 :
+## Année universitaire 2022-2023
 
 - 4 octobre 10h-11h : Luigi Brochard (https://www.eas4dc.com), [Energy Efficient Datacenters](/doc/sem_EAS_041022.pdf)
 - 8 novembre 10h-11h : Antoine Jégo (https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/), [Task-Based Programming Models For Scalable Algorithms: Application to Matrix Multiplication](/doc/sem_Jego_081122.pdf)
