@@ -9,7 +9,7 @@ permalink: /seminaires/
 -  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
 - 12 Novembre 10h20: to be defined
 - 10 Décembre 10h20: to be defined
-- 28 Janvier  10h20: to be defined
+- 28 Janvier  10h20: C. Foyer, _Mémoire hétérogènes et placement de données_
 
 ##  Planning des séminaires du réseau pour l'année universitaire 2023-2024 :
 
