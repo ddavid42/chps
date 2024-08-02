@@ -26,4 +26,8 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
   * [Liste des offres 2023-2024](../stages2023)
   * [Liste des offres 2022-2023](../stages2022)
 
-## Offres d'emploi
+## Offres d'emploi et de thèse
+
+Ne pas hésiter à regarder les pages de l'année précédente pour les offres qui pourraient encore être d'actualité.
+ * IRIT
+   + [PhD: Energy-aware job scheduling and feedback](https://www.irit.fr/SEPIA/open-positions/post/2024_phd_numpex_6_4/)
