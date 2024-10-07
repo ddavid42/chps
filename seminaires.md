@@ -9,8 +9,8 @@ permalink: /seminaires/
 ### Séminaires commun
 
   -  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
-  - 12 Novembre 10h20: to be defined
-  - 10 Décembre 10h20: to be defined
+  - 12 Novembre 10h20: A. Kaponicakova, _Parallel training algorithms for scientific machine-learning_
+  - 10 Décembre 10h20: E. Petit, _IA génératives (LLM)_
   - 28 Janvier  10h20: C. Foyer, _Mémoire hétérogènes et placement de données_
 
 ### Hackathon Teratec
