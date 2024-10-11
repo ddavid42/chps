@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stages 2023-2024
+title: Stages 2024-2025
 permalink: /stages/
 ---
 
