@@ -18,5 +18,5 @@ Il existe des formations françaises qui forment les spécialistes du CHPS de de
 
 # Participation à des challenges
 
-Teratec organise en 2022 un Hackathon à destination des étudiants sensibilisés aux thématiques du HPC. Des groupes d'étudiants du réseau participeront à cet événement.
+Teratec organise en 2024 un Hackathon à destination des étudiants sensibilisés aux thématiques du HPC. Des groupes d'étudiants du réseau participeront à cet événement.
 [Plus d'information](https://teratec.eu/activites/Hackathon.html)
