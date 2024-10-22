@@ -11,6 +11,11 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Physical analysis of Extreme-Scale fluid dynamics simulation data](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_nantes_2024.pdf)
    + [Machine learning for turbulent flow reconstruction](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_nantes_2024.pdf)
 
+ * UPVD - Perpignan
+   + [Detection of Numerical Bugs with Large Language Model(LLM)](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_fpt4.pdf)
+   + [Evaluation of SAT Solvers and Bit-Blasting to challenges numerical bugs in programs](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_bit_blasting.pdf)
+   + [Evaluation of Soft Error Resilience in Floating-Point Units](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_soft_error.pdf)
+   + [Numerical Debugging through Reverse Execution: Trace Construction and Reverse Replay in HPC Programs](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_TENET.pdf)
 
 ## Liens vers les années précédentes
 
