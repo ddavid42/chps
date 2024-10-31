@@ -17,7 +17,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Evaluation of Soft Error Resilience in Floating-Point Units](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_soft_error.pdf)
    + [Numerical Debugging through Reverse Execution: Trace Construction and Reverse Replay in HPC Programs](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_TENET.pdf)
  * Eviden (ex-Atos)
-   + [Nombreux stages de recherche en lien avec le HPC](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_Eviden_2025.pdf)
+   + [Liste des stages](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_Eviden_2025.pdf)
 
 ## Liens vers les années précédentes
 
