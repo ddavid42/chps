@@ -18,6 +18,8 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Numerical Debugging through Reverse Execution: Trace Construction and Reverse Replay in HPC Programs](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_TENET.pdf)
  * Eviden (ex-Atos)
    + [Liste des stages](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_Eviden_2025.pdf)
+ * IN2P3 - Annecy
+   + [Transformées Intégrales Haute-Performance pour l’Astrophysique de Demain](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_stage_astroinfo_2025.pdf)
 
 ## Liens vers les années précédentes
 
