@@ -43,6 +43,10 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 
  * CERFACS
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/CERFACS_catalogue_2025.pdf)
+  
+ * BLUEMAPPING - Gif-sur-Yvette
+   + [Passage sur AWS d'une solution cloud de modélisation rapide du ruissellement pluvial](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_bluemapping_2024.pdf)
+
 
 ## Liens vers les années précédentes
 
