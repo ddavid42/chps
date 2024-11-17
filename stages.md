@@ -48,6 +48,15 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Passage sur AWS d'une solution cloud de modélisation rapide du ruissellement pluvial](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_bluemapping_2024.pdf)
 
 
+ * Aneo
+   + [(BOPA) AIML : création de modèles pour détecter le taux de stéatose de foies greffés (en collaboration avec le bloc opératoire augmenté de l’APHP)](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_bopa)
+   + [Stage en développement logiciel : PoC Intégration Slurm / Kubernetes](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_kubernetes)
+   + [Stage IA : Mise en place de RAGs (LLMs) et optimisation des modèles](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_ia)
+   + [Amélioration des performances du compilateur dynamique (PENE) pour l’analyse numérique des applications](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_pene)
+   + [Stage de developpement logiciel : Intégration de Nextflow et/ou Airflow dans ArmoniK](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_armonik)
+   + [Stage en Cloud Computing : Automatisation et Mise à l'échelle d'un Ordonnanceur de Tâches](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_cloud)
+   + [Catalogue complet des offres de stage chez Aneo](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/ANEO_book_stages_2024_2025.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2023-2024](../stages2023)
