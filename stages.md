@@ -25,6 +25,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 	 - [Ordonnancement dynamique de chaînes de communication numérique pour la radio logicielle.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/2025_oaumage_aff3ct_streampu)
    + Equipe TOPAL
      - [Communications réseau pour apprentissage automatique dans un environnement distribué, hétérogène et volatile](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/sujet-stage-m2-hive-comm.pdf)
+     - [Extension de l'implémentation distribuée de la factorisation LU avec pivotage partiel aux distributions non régulières](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/topal_hpl)
    + Equipe Tadaam
      - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2025_StarPU_NewMadeleine.html)
      - [Full stack optimization for streaming applications](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/Tadaam_Mihail.pdf)
@@ -56,6 +57,9 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Stage de developpement logiciel : Intégration de Nextflow et/ou Airflow dans ArmoniK](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_armonik)
    + [Stage en Cloud Computing : Automatisation et Mise à l'échelle d'un Ordonnanceur de Tâches](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/aneo_cloud)
    + [Catalogue complet des offres de stage chez Aneo](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/ANEO_book_stages_2024_2025.pdf)
+
+ * Télécom Sud-Paris
+   + [MARS Attack ! Vers de l’optimisation de communications sur FPGA](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/MarsAttack.pdf)
 
 ## Liens vers les années précédentes
 
