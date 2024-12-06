@@ -61,6 +61,11 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
  * Télécom Sud-Paris
    + [MARS Attack ! Vers de l’optimisation de communications sur FPGA](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/MarsAttack.pdf)
 
+ * LIP6 - Sorbonne Université, Paris
+   + [Probabilistic rounding error analyses of matrix factorizations (FPT4)](https://www-pequan.lip6.fr/~jezequel/OFFERS/Internship_FPT4.pdf)
+   + [Adaptive precision Krylov methods for solving large sparse linear systems (NumPEx)](https://www-pequan.lip6.fr/~jezequel/OFFERS/internship_LIP6_InriaBordeaux.pdf)
+   + [Optimization of the representation of results in interval arithmetic](https://www-pequan.lip6.fr/~jezequel/OFFERS/internship_optim_interv_arith.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2023-2024](../stages2023)
