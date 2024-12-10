@@ -20,7 +20,6 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
  * Inria Bordeaux
    + Equipe CONCACE
      - [Adaptive precision Krylov methods](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/LIP6_InriaBordeaux_2025.pdf)
-   + Equipe POLARIS
    + Equipe Storm
 	 - [Ordonnancement dynamique de chaînes de communication numérique pour la radio logicielle.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2024/2025_oaumage_aff3ct_streampu)
    + Equipe TOPAL
@@ -30,6 +29,9 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
      - [Intégration des communications réseau et de l'ordonnancement de tâches](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2025_StarPU_NewMadeleine.html)
      - [Full stack optimization for streaming applications](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/Tadaam_Mihail.pdf)
      - [I/O performance of the DDF pipeline](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/Tadaam_Francielli.pdf)
+   + Equipe Flowers
+     - [Developing and benchmarking a library for LLMs in embodied agents](https://docs.google.com/document/d/13VSUtzmZh1gpsLqcZXOpFOnFC2QMrBI80XMJMFI9VKc/edit?usp=sharing)
+	 - [Autres offres](https://flowers.inria.fr/jobs/)
 
  * Inria Sophia-Antipolis - Université Côte d'Azur
    + [Reconnaissance de programmes par réseaux de neurones de graphes](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/Stage-DFG-NN-2024-2025-Touati-Formenti-Alias.pdf)
@@ -44,6 +46,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 
  * CERFACS
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/CERFACS_catalogue_2025.pdf)
+   + [Extension de la limite d’extinction pauvre de carburant durable pour l’aviation via des décharges plasma](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/CERFACS_relpa.pdf)
   
  * BLUEMAPPING - Gif-sur-Yvette
    + [Passage sur AWS d'une solution cloud de modélisation rapide du ruissellement pluvial](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_bluemapping_2024.pdf)
