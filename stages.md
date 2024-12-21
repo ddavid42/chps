@@ -69,6 +69,12 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Adaptive precision Krylov methods for solving large sparse linear systems (NumPEx)](https://www-pequan.lip6.fr/~jezequel/OFFERS/internship_LIP6_InriaBordeaux.pdf)
    + [Optimization of the representation of results in interval arithmetic](https://www-pequan.lip6.fr/~jezequel/OFFERS/internship_optim_interv_arith.pdf)
 
+ * ONERA
+   + [Hybrid direct-iterative strategies with BLR data compression for CFD simulations](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/ONERA_DAAA-2025-35.pdf)
+
+ * LaBRI
+   + [Development of a Deep Learning methodology for synthetic Spatial Metabolomics data generation](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/labri.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2023-2024](../stages2023)
