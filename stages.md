@@ -16,6 +16,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Evaluation of SAT Solvers and Bit-Blasting to challenges numerical bugs in programs](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_bit_blasting.pdf)
    + [Evaluation of Soft Error Resilience in Floating-Point Units](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_soft_error.pdf)
    + [Numerical Debugging through Reverse Execution: Trace Construction and Reverse Replay in HPC Programs](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_2024_Master_thesis_TENET.pdf)
+   + [Liste de stages en modélisation physique/statistique, analyse de données et géosciences] (https://cefrem.univ-perp.fr/index.php/offres-de-stage-et-emplois)
 
  * Inria Bordeaux
    + Equipe CONCACE
