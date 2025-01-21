@@ -11,7 +11,8 @@ permalink: /seminaires/
   -  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
   - 12 Novembre 11h00: A. Kaponicakova, _Parallel training algorithms for scientific machine-learning_
   - 10 Décembre 16h15: E. Petit, _IA génératives (LLM)_
-  - 28 Janvier  10h20: C. Foyer, _Mémoire hétérogènes et placement de données_
+  - 28 Janvier  10h10: C. Foyer, _Mémoire hétérogènes et placement de données_
+  - 28 Janvier  11h00: M. Beck, _How Will The Internet Evolve?_
 
 ### Hackathon Teratec
 
