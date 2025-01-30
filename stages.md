@@ -48,6 +48,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
  * CERFACS
    + [Catalogue des stages en CFD](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/CERFACS_catalogue_2025.pdf)
    + [Extension de la limite d’extinction pauvre de carburant durable pour l’aviation via des décharges plasma](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/CERFACS_relpa.pdf)
+   + [Simulation LES mono canal d'un étage de turbomachine](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/CERFACS_Choro.pdf)
   
  * BLUEMAPPING - Gif-sur-Yvette
    + [Passage sur AWS d'une solution cloud de modélisation rapide du ruissellement pluvial](https://perso.univ-perp.fr/david.defour/Doc/RCHPS_bluemapping_2024.pdf)
@@ -86,3 +87,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 Ne pas hésiter à regarder les pages de l'année précédente pour les offres qui pourraient encore être d'actualité.
  * IRIT
    + [PhD: Energy-aware job scheduling and feedback](https://www.irit.fr/SEPIA/open-positions/post/2024_phd_numpex_6_4/)
+ * Maison du Quantique - Bordeaux
+   + [Ingénieur.e de recherche - Maison du Quantique en Nouvelle-Aquitaine](https://calcul.math.cnrs.fr/job_736045e54007c65ea598866bb4338537.html)
+ * LTU - Toulouse
+   + [Développeur(euse) Backend Python & Spécialiste Produit](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/LTU_IR.pdf)
