@@ -77,6 +77,9 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
  * LaBRI
    + [Development of a Deep Learning methodology for synthetic Spatial Metabolomics data generation](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/labri.pdf)
 
+ * LIS - Marseille
+   + [How blockchain technologies can serve distributed access control](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/stage_lis.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2023-2024](../stages2023)
@@ -91,3 +94,7 @@ Ne pas hésiter à regarder les pages de l'année précédente pour les offres q
    + [Ingénieur.e de recherche - Maison du Quantique en Nouvelle-Aquitaine](https://calcul.math.cnrs.fr/job_736045e54007c65ea598866bb4338537.html)
  * LTU - Toulouse
    + [Développeur(euse) Backend Python & Spécialiste Produit](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/LTU_IR.pdf)
+
+ * Thèse CEA Bruyère
+   + [Conception et développement d'algorithmes asynchrones pour la résolution de l'équation du transport des neutrons sur des architectures massivement parallèles et hétérogènes](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/these_cea.pdf)
+
