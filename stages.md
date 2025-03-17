@@ -71,6 +71,9 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
    + [Adaptive precision Krylov methods for solving large sparse linear systems (NumPEx)](https://www-pequan.lip6.fr/~jezequel/OFFERS/internship_LIP6_InriaBordeaux.pdf)
    + [Optimization of the representation of results in interval arithmetic](https://www-pequan.lip6.fr/~jezequel/OFFERS/internship_optim_interv_arith.pdf)
 
+ * EDF - Saclay
+   + [Développement d'un prototype du logiciel verrou de verification numérique pour GPU](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/sujet-stage-verrou-GPU.pdf) - _Stage M1_
+
  * ONERA
    + [Hybrid direct-iterative strategies with BLR data compression for CFD simulations](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/ONERA_DAAA-2025-35.pdf)
 
@@ -79,6 +82,17 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 
  * LIS - Marseille
    + [How blockchain technologies can serve distributed access control](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/stage_lis.pdf)
+
+ * Université Gustave Eiffel
+   + [Connectivité intelligente des véhicules ferroviaires autonomes basée sur l'IA](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/Eiffel-IA-GestionMobilite.pdf)
+   + [Vers la mise en oeuvre de systèmes d'apprentissage distribués collaboratifs et sécurisés](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/EiffelZKP.pdf)
+
+ * Laboratoire IMS - Talence
+   + [Jumeau numérique agroalimentaire : IA et experts du système pour la conception et la modélisation](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/IMS_JN.pdf)
+   + [Jumeau numérique agroalimentaire soutenable : reconstruction et application du modèle par l'IA](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/IMS_JN2.pdf)
+
+ * Institut Universitaire du Cancer de Toulouse – Oncopole Claudius Regaud (IUCT-OCR)
+   + [Intégration du Reinforcement Learning from Human Feedback pour l’amélioration d’algorithmes de Deep Learning pour le recalage déformable : application aux images CT et IRM pour la radiothérapie.](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/Stage_IA_Sante_IUCT_OCR_IRIT_M2.pdf)
 
 ## Liens vers les années précédentes
 
