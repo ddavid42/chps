@@ -103,7 +103,7 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 
 Ne pas hésiter à regarder les pages de l'année précédente pour les offres qui pourraient encore être d'actualité.
  * ONERA / Sorbonne Université
-   + [hybrid direct-iterative solvers, adaptive preconditioner, memory constraint, Block LowRank compression, Computational Fluid Dynamics, High Performance Computing, load-balancing] (https://www-pequan.lip6.fr/~tmary/stages/PhD_ONERA_2025.pdf)
+   + [hybrid direct-iterative solvers, adaptive preconditioner, memory constraint, Block Low-Rank compression, Computational Fluid Dynamics, High Performance Computing, load-balancing](https://www-pequan.lip6.fr/~tmary/stages/PhD_ONERA_2025.pdf)
  * IRIT
    + [PhD: Energy-aware job scheduling and feedback](https://www.irit.fr/SEPIA/open-positions/post/2024_phd_numpex_6_4/)
  * Maison du Quantique - Bordeaux
