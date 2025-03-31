@@ -102,14 +102,16 @@ nous recevrons à l'intention des étudiants du réseaux des masters CHPS pour l
 ## Offres d'emploi et de thèse
 
 Ne pas hésiter à regarder les pages de l'année précédente pour les offres qui pourraient encore être d'actualité.
- * ONERA / Sorbonne Université
+ * Thèse - ENIB Bretagne
+   + [Modélisation hyperbolique eulérienne et multiphasique de la compaction et de la fragmentation de bétons cellulaires](https://www.linkedin.com/jobs/view/4190458324/)
+ * Thèse - ONERA / Sorbonne Université
    + [hybrid direct-iterative solvers, adaptive preconditioner, memory constraint, Block Low-Rank compression, Computational Fluid Dynamics, High Performance Computing, load-balancing](https://www-pequan.lip6.fr/~tmary/stages/PhD_ONERA_2025.pdf)
- * IRIT
+ * Thèse - IRIT
    + [PhD: Energy-aware job scheduling and feedback](https://www.irit.fr/SEPIA/open-positions/post/2024_phd_numpex_6_4/)
  * Maison du Quantique - Bordeaux
    + [Ingénieur.e de recherche - Maison du Quantique en Nouvelle-Aquitaine](https://calcul.math.cnrs.fr/job_736045e54007c65ea598866bb4338537.html)
  * LTU - Toulouse
    + [Développeur(euse) Backend Python & Spécialiste Produit](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/LTU_IR.pdf)
- * Thèse CEA Bruyère
+ * Thèse - CEA Bruyère
    + [Conception et développement d'algorithmes asynchrones pour la résolution de l'équation du transport des neutrons sur des architectures massivement parallèles et hétérogènes](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/these_cea.pdf)
 
