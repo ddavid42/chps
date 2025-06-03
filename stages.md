@@ -115,3 +115,5 @@ Ne pas hésiter à regarder les pages de l'année précédente pour les offres q
  * Thèse - CEA Bruyère
    + [Conception et développement d'algorithmes asynchrones pour la résolution de l'équation du transport des neutrons sur des architectures massivement parallèles et hétérogènes](https://cisd.enseirb-matmeca.fr/pfe/offres/2024/these_cea.pdf)
 
+ * Centre Inria de l'Université de Bordeaux
+   + [Ingénieur / Tolérance aux pannes dans la bibliothèque de communications réseau NewMadeleine](https://recrutement.inria.fr/public/classic/fr/offres/2025-08923)
