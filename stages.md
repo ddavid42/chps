@@ -117,3 +117,9 @@ Ne pas hésiter à regarder les pages de l'année précédente pour les offres q
 
  * Centre Inria de l'Université de Bordeaux
    + [Ingénieur / Tolérance aux pannes dans la bibliothèque de communications réseau NewMadeleine](https://recrutement.inria.fr/public/classic/fr/offres/2025-08923)
+
+ * Thèse - Inria Lyon
+   + [PhD Position F/M Foundation of an HPC Composition Model](https://recrutement.inria.fr/public/classic/fr/offres/2025-08549)
+
+ * CDD - CEA CESTA - Bordeaux
+   + [lngénieur déploiement et applications de grands modèles de langages H/F](https://www.emploi.cea.fr/offre-de-emploi/emploi-lngenieur-deploiement-et-applications-de-grands-modeles-de-langages-h-f_36526.aspx)
