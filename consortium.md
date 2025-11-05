@@ -21,5 +21,5 @@ Le réseau des établissements français délivrant des diplômes reconnus par l
 - Université de Perpignan : David Defour, david.defour@univ-perp.fr
 - Université de Paris-Saclay : Soraya Zertal, soraya.zertal@uvsq.fr
 - Université de Reims Champagne-Ardenne : Luiz Angelo Steffenel, luiz-angelo.steffenel@univ-reims.fr
-- ENSEIRB-MATMECA : Mathieu Faverge et Raymond Namyst, resp_option_cisd@enseirb-matmeca.fr
+- ENSEIRB-MATMECA : Mathieu Faverge et Abdou Guermouche, resp_option_cisd@enseirb-matmeca.fr
 - ENSEEITH : Ronan Guivarch, ronan.guivarch@toulouse-inp.fr
