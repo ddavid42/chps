@@ -4,9 +4,15 @@ title: Séminaires
 permalink: /seminaires/
 ---
 
+## Année universitaire 2025-2026
+
+### Séminaires
+
+A définir
+
 ## Année universitaire 2024-2025
 
-### Séminaires commun
+### Séminaires
 
   -  8 Octobre  10h20: P. Carribault, _Vision française et européenne du HPC_
   - 12 Novembre 11h00: A. Kaponicakova, _Parallel training algorithms for scientific machine-learning_
