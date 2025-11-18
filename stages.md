@@ -18,6 +18,43 @@ que nous recevrons de nouveaux sujets.
    + [Modélisation et simulation du réseau de transport d'électricité](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/DPS/4.pdf)
    + [Data Science appliquée à l’ingénierie](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/DPS/41.pdf)
 
+ * Eviden (anciennement Atos)
+   + [Optimisation d’une collective dans Open MPI - Equipe Herons / Echirolles](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Eviden-grenoble.pdf)
+
+ * Inria - Tous centres
+   + [Offres de stages Inria (Filtrer par type de contrat: Stage ou Convention de stage)](https://jobs.inria.fr/public/classic/fr/offres)
+ 
+ * Inria Bordeaux
+   + Equipe CONCACE
+     - [Low-Rank Block Compression in Sparse-Grid Methods](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sparse-grid.pdf)
+     - [Development of a parallel Multigrid Method in Composyx](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/composyx-parallel-multigrid.pdf)
+   + Equipe MANAO
+     - [Développement d’un logiciel de conception optique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_Manao_CO_2025.pdf)
+   + Equipe PLEIADE
+     - [Dimensionality Reduction Techniques for Human Gut Microbiome data](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/pleiade_gsk_cf.pdf)
+   + Equipe SED
+     - [Stagiaire Développeur IA HPC Santé](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/inria_sed.pdf)
+   + Equipe SISTM
+     - [Development of machine learning based inference methods for high dimensional mechanistic models with population data: application to vaccine trial data analysis](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/SISTM.pdf)
+   + Equipe Storm
+     - [Ordonnancement pour l'économie d'énergie dans les supercalculateurs](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/storm_energy)
+   + Equipe TOPAL
+     - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/stage-m2-chameleonpp)
+     - [Exploiting hierarchical task submission within sparse direct solvers](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/2025_pastix_hierarchique)
+   + Equipe Tadaam
+
+ * INRS - Nancy
+   + [Prototypage d'une interface d'exploitation de messures issues de capteurs de vibration](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/INRS_Nancy.pdf)
+
+ * IRIT - Toulouse
+   + [Using precision emulation within mixed-precision algorithms](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/irit_mp.pdf)
+
+ * Junia - Bordeaux
+   + [Traitement massivement parallèle temps-réel du signal bioélectrique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_M2_Junia_Bordeaux_2025.pdf)
+
+ * LMFA / Centrale Lyon - Lyon
+   + [Development of a DIY 3D-Printed Ambisonic Microphone for Autonomous Field Recording](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/LMFA.pdf)
+
  * Nvidia
    + [Tous les stages NVidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
 
