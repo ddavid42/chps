@@ -37,10 +37,10 @@ que nous recevrons de nouveaux sujets.
    + Equipe SISTM
      - [Development of machine learning based inference methods for high dimensional mechanistic models with population data: application to vaccine trial data analysis](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/SISTM.pdf)
    + Equipe Storm
-     - [Ordonnancement pour l'économie d'énergie dans les supercalculateurs](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/storm_energy)
+     - [Ordonnancement pour l'économie d'énergie dans les supercalculateurs](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/storm_energy)
    + Equipe TOPAL
-     - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/stage-m2-chameleonpp)
-     - [Exploiting hierarchical task submission within sparse direct solvers](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/2025_pastix_hierarchique)
+     - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage-m2-chameleonpp)
+     - [Exploiting hierarchical task submission within sparse direct solvers](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_hierarchique)
    + Equipe Tadaam
      - [Analyse de performance online dans la bibliothèque de communication NewMadeleine](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2026_traces.html)
 
