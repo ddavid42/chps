@@ -41,6 +41,7 @@ que nous recevrons de nouveaux sujets.
    + Equipe TOPAL
      - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage-m2-chameleonpp)
      - [Exploiting hierarchical task submission within sparse direct solvers](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_hierarchique)
+     - [Émulation du paradigme Template Task Graphs (TTG) au-dessus d'un système d'exécution Sequential Task Flow](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage_ttg_fr)
    + Equipe Tadaam
      - [Analyse de performance online dans la bibliothèque de communication NewMadeleine](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2026_traces.html)
 
