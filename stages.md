@@ -42,6 +42,7 @@ que nous recevrons de nouveaux sujets.
      - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/stage-m2-chameleonpp)
      - [Exploiting hierarchical task submission within sparse direct solvers](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/2025_pastix_hierarchique)
    + Equipe Tadaam
+     - [Analyse de performance online dans la bibliothèque de communication NewMadeleine](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2026_traces.html)
 
  * INRS - Nancy
    + [Prototypage d'une interface d'exploitation de messures issues de capteurs de vibration](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/INRS_Nancy.pdf)
@@ -51,6 +52,9 @@ que nous recevrons de nouveaux sujets.
 
  * Junia - Bordeaux
    + [Traitement massivement parallèle temps-réel du signal bioélectrique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_M2_Junia_Bordeaux_2025.pdf)
+
+ * LIP6 - Sorbonne Université, Paris
+   + [Abstraction des jeux d'instructions vectoriels - Application sur l'architecture RISC-V et sur des solveurs HP]((https://cisd.enseirb-matmeca.fr/pfe/offres/2025/inria_tadaam.pdf)
 
  * LMFA / Centrale Lyon - Lyon
    + [Development of a DIY 3D-Printed Ambisonic Microphone for Autonomous Field Recording](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/LMFA.pdf)
