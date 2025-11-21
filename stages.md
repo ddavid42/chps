@@ -9,6 +9,9 @@ l'intention des étudiants du réseaux des masters CHPS pour l'année
 2025-2026, et la liste ci-dessous sera mise à jour au fur et à mesure
 que nous recevrons de nouveaux sujets.
 
+ * CEA Cadarache
+   + [Optimisation d'un solveur parallèle pour la modélisation du contact](https://www.emploi.cea.fr/offre-de-emploi/emploi-stage-optimisation-d-un-solveur-parallele-pour-la-modelisation-du-contact-_38168.aspx)
+
  * CEA CESTA
    + [Catalogue de stages](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/CEA_CESTA.pdf) _Les stages informatiques sont à la fin du livret._
 
@@ -42,6 +45,8 @@ que nous recevrons de nouveaux sujets.
      - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage-m2-chameleonpp)
      - [Exploiting hierarchical task submission within sparse direct solvers](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_hierarchique)
      - [Émulation du paradigme Template Task Graphs (TTG) au-dessus d'un système d'exécution Sequential Task Flow](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage_ttg_fr)
+	 - [Techniques d'optimisation pour les Graph Neural Networks](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_gnn.pdf)
+	 - [Optimisation du parallélisme de pipeline pour les grands modèles de langage (LLMs) via l’exploitation du parallélisme interne des opérations](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_optim.pdf)
    + Equipe Tadaam
      - [Analyse de performance online dans la bibliothèque de communication NewMadeleine](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2026_traces.html)
 
