@@ -31,6 +31,8 @@ que nous recevrons de nouveaux sujets.
    + Equipe CONCACE
      - [Low-Rank Block Compression in Sparse-Grid Methods](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sparse-grid.pdf)
      - [Development of a parallel Multigrid Method in Composyx](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/composyx-parallel-multigrid.pdf)
+   + Equipe FLOWERS
+	 - [Curiosity-driven automated discovery of interference patterns in multi-core architectures](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/stage-flowers.pdf)
    + Equipe MANAO
      - [Développement d’un logiciel de conception optique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_Manao_CO_2025.pdf)
    + Equipe PLEIADE
@@ -41,8 +43,11 @@ que nous recevrons de nouveaux sujets.
      - [Development of machine learning based inference methods for high dimensional mechanistic models with population data: application to vaccine trial data analysis](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/SISTM.pdf)
    + Equipe Storm
      - [Ordonnancement pour l'économie d'énergie dans les supercalculateurs](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/storm_energy)
+	 - [Using Code-LLMs to enhance performance models for GPU kernels](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sujet_stage_negrevergne_aumage.pdf)
+	 - [Ordonnancement dynamique de chaînes de communication numérique pour la radio logicielle.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/streampu)
    + Equipe TOPAL
      - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage-m2-chameleonpp)
+     - [Implementation of new functionalities in a parallel sparse direct solvers (Dev / **Possible en 2A**)](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_devel)
      - [Exploiting hierarchical task submission within sparse direct solvers](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_hierarchique)
      - [Émulation du paradigme Template Task Graphs (TTG) au-dessus d'un système d'exécution Sequential Task Flow](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage_ttg_fr)
 	 - [Techniques d'optimisation pour les Graph Neural Networks](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_gnn.pdf)
@@ -80,5 +85,4 @@ que nous recevrons de nouveaux sujets.
 ## Offres d'emploi et de thèse
 
 Ne pas hésiter à regarder les pages de l'année précédente pour les offres qui pourraient encore être d'actualité.
- * CDD - CEA CESTA - Bordeaux
-   + [lngénieur déploiement et applications de grands modèles de langages H/F](https://www.emploi.cea.fr/offre-de-emploi/emploi-lngenieur-deploiement-et-applications-de-grands-modeles-de-langages-h-f_36526.aspx)
+
