@@ -15,6 +15,9 @@ que nous recevrons de nouveaux sujets.
  * CEA CESTA
    + [Catalogue de stages](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/CEA_CESTA.pdf) _Les stages informatiques sont à la fin du livret._
 
+ * CEA Saclay
+   + [Development of Solver-Market: A tool for comparing GPU-enabled Algebraic Multigrid libraries](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sujet_solvermarket.pdf)
+
  * DPS (Digital Product Simulation) - La Celle Saint-Cloud
    + [Simulation numérique & Automatisation Automobile](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/DPS/97.pdf)
    + [Modélisation Multi-corps Automobile Liaison Au Sol](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/DPS/99.pdf)
