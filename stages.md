@@ -58,6 +58,10 @@ que nous recevrons de nouveaux sujets.
    + Equipe Tadaam
      - [Analyse de performance online dans la bibliothèque de communication NewMadeleine](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2026_traces.html)
 
+ * INRIA Rennes
+   + Equipe KerData
+     - [Staging In and Out Astronomical Data for Large-Scale Radio Astronomy Processing Pipelines](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/ECLAT_Stage_M2_2026-3.pdf)
+
  * INRS - Nancy
    + [Prototypage d'une interface d'exploitation de messures issues de capteurs de vibration](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/INRS_Nancy.pdf)
 
@@ -66,6 +70,7 @@ que nous recevrons de nouveaux sujets.
 
  * Junia - Bordeaux
    + [Traitement massivement parallèle temps-réel du signal bioélectrique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_M2_Junia_Bordeaux_2025.pdf)
+   + [Optimisation et implémentation GPU de preuves à divulgation nulle de connaissance post-quantiques](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/junia_zkp.pdf)
 
  * LIP6 - Sorbonne Université, Paris
    + [Abstraction des jeux d'instructions vectoriels - Application sur l'architecture RISC-V et sur des solveurs HP]((https://cisd.enseirb-matmeca.fr/pfe/offres/2025/inria_tadaam.pdf)
