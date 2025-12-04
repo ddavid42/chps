@@ -72,6 +72,9 @@ que nous recevrons de nouveaux sujets.
    + [Traitement massivement parallèle temps-réel du signal bioélectrique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_M2_Junia_Bordeaux_2025.pdf)
    + [Optimisation et implémentation GPU de preuves à divulgation nulle de connaissance post-quantiques](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/junia_zkp.pdf)
 
+ * KitWare
+   * [Mise en place d’un traitement temps-réel complet de détection d’objets sur caméra](https://jobs.lever.co/kitware/3c058483-6e0d-4b49-8c8b-8482a7ecf7a4) - Lyon
+
  * LIP6 - Sorbonne Université, Paris
    + [Abstraction des jeux d'instructions vectoriels - Application sur l'architecture RISC-V et sur des solveurs HP]((https://cisd.enseirb-matmeca.fr/pfe/offres/2025/inria_tadaam.pdf)
 
