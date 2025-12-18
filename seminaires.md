@@ -9,8 +9,8 @@ permalink: /seminaires/
 ### Séminaires
 
   - 19 Novembre 10h30: S. Odinot, _One brief computing history_
-  - 19 Décembre 14h00: P. Carribault, _Vision française et européenne du HPC_ (To be confirmed)
-  - 20 Janvier  10h30: D. Barthou, (To be confirmed)
+  - 19 Décembre 14h00: P. Carribault, _HPC Status & Roadmap. Focus on R&D at CEA_
+  - 20 Janvier  10h30: D. Barthou, _Title to come_
 
 ## Année universitaire 2024-2025
 
