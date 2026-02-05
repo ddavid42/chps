@@ -29,13 +29,13 @@ que nous recevrons de nouveaux sujets.
 
  * Inria - Tous centres
    + [Offres de stages Inria (Filtrer par type de contrat: Stage ou Convention de stage)](https://jobs.inria.fr/public/classic/fr/offres)
- 
+
  * Inria Bordeaux
    + Equipe CONCACE
      - [Low-Rank Block Compression in Sparse-Grid Methods](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sparse-grid.pdf)
      - [Development of a parallel Multigrid Method in Composyx](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/composyx-parallel-multigrid.pdf)
    + Equipe FLOWERS
-	 - [Curiosity-driven automated discovery of interference patterns in multi-core architectures](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/stage-flowers.pdf)
+     - [Curiosity-driven automated discovery of interference patterns in multi-core architectures](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/stage-flowers.pdf)
    + Equipe MANAO
      - [Développement d’un logiciel de conception optique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Stage_Manao_CO_2025.pdf)
    + Equipe PLEIADE
@@ -46,15 +46,15 @@ que nous recevrons de nouveaux sujets.
      - [Development of machine learning based inference methods for high dimensional mechanistic models with population data: application to vaccine trial data analysis](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/SISTM.pdf)
    + Equipe Storm
      - [Ordonnancement pour l'économie d'énergie dans les supercalculateurs](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/storm_energy)
-	 - [Using Code-LLMs to enhance performance models for GPU kernels](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sujet_stage_negrevergne_aumage.pdf)
-	 - [Ordonnancement dynamique de chaînes de communication numérique pour la radio logicielle.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/streampu)
+     - [Using Code-LLMs to enhance performance models for GPU kernels](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/sujet_stage_negrevergne_aumage.pdf)
+     - [Ordonnancement dynamique de chaînes de communication numérique pour la radio logicielle.](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/streampu)
    + Equipe TOPAL
      - [Asynchronisme et données multidimensionnelles standard dans ```ChameleonPP```](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage-m2-chameleonpp)
      - [Implementation of new functionalities in a parallel sparse direct solvers (Dev / **Possible en 2A**)](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_devel)
      - [Exploiting hierarchical task submission within sparse direct solvers](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/2025_pastix_hierarchique)
      - [Émulation du paradigme Template Task Graphs (TTG) au-dessus d'un système d'exécution Sequential Task Flow](https://cours-mf.gitlabpages.inria.fr/pfe/offres/2025/stage_ttg_fr)
-	 - [Techniques d'optimisation pour les Graph Neural Networks](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_gnn.pdf)
-	 - [Optimisation du parallélisme de pipeline pour les grands modèles de langage (LLMs) via l’exploitation du parallélisme interne des opérations](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_optim.pdf)
+     - [Techniques d'optimisation pour les Graph Neural Networks](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_gnn.pdf)
+     - [Optimisation du parallélisme de pipeline pour les grands modèles de langage (LLMs) via l’exploitation du parallélisme interne des opérations](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/TOPAL_optim.pdf)
    + Equipe Tadaam
      - [Analyse de performance online dans la bibliothèque de communication NewMadeleine](https://dept-info.labri.fr/~denis/Enseignement/Sujet_PFE_2026_traces.html)
 
@@ -79,12 +79,19 @@ que nous recevrons de nouveaux sujets.
 
  * KitWare
    * [Mise en place d’un traitement temps-réel complet de détection d’objets sur caméra](https://jobs.lever.co/kitware/3c058483-6e0d-4b49-8c8b-8482a7ecf7a4) - Lyon
+   * [Catalogue stages internationaux](https://jobs.lever.co/kitware?commitment=Intern)
+
+ * LAPP - Annecy
+   + [Intégrer l'Univers : Solveurs ODE Haute-Performance pour l'Astrophysique Numérique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/lapp.pdf)
 
  * LIP6 - Sorbonne Université, Paris
    + [Abstraction des jeux d'instructions vectoriels - Application sur l'architecture RISC-V et sur des solveurs HP]((https://cisd.enseirb-matmeca.fr/pfe/offres/2025/inria_tadaam.pdf)
 
  * LMFA / Centrale Lyon - Lyon
    + [Development of a DIY 3D-Printed Ambisonic Microphone for Autonomous Field Recording](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/LMFA.pdf)
+
+ * Maison du Quantique HybQuant Nouvelle Aquitaine - Bordeaux
+   + [Expériences sur l'algorithme de Shor et améliorations](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/quantique.pdf)
 
  * Nvidia
    + [Tous les stages NVidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17)
@@ -102,3 +109,5 @@ que nous recevrons de nouveaux sujets.
 
 Ne pas hésiter à regarder les pages de l'année précédente pour les offres qui pourraient encore être d'actualité.
 
+  * ONERA - Chatillon
+    + Thèse: [Adaptive memory-aware hybrid linear solvers for compressible flows](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/Ubiquity/these_onera.pdf)
