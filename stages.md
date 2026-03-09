@@ -79,10 +79,14 @@ que nous recevrons de nouveaux sujets.
 
  * KitWare
    * [Mise en place d’un traitement temps-réel complet de détection d’objets sur caméra](https://jobs.lever.co/kitware/3c058483-6e0d-4b49-8c8b-8482a7ecf7a4) - Lyon
+   * [Stage en visualisation scientifique : WebGPU dans ParaView](https://jobs.lever.co/kitware/7a4bdc41-4dfe-4784-9187-7f972d9df4a2)
    * [Catalogue stages internationaux](https://jobs.lever.co/kitware?commitment=Intern)
 
  * LAPP - Annecy
    + [Intégrer l'Univers : Solveurs ODE Haute-Performance pour l'Astrophysique Numérique](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/lapp.pdf)
+
+ * LII /  Enac - Toulouse
+   + [Apprentissage Incrémental pour Capteurs Intelligents à Ressources Limitées](https://cisd.enseirb-matmeca.fr/pfe/offres/2025/lii.pdf)
 
  * LIP6 - Sorbonne Université, Paris
    + [Abstraction des jeux d'instructions vectoriels - Application sur l'architecture RISC-V et sur des solveurs HP]((https://cisd.enseirb-matmeca.fr/pfe/offres/2025/inria_tadaam.pdf)
