@@ -19,7 +19,8 @@ recevrons de nouveaux sujets.
 
  * CERFACS
    + [Étude numérique de l'interaction entre une décharge nanoseconde et des gouttelettes](https://cerfacs.fr/offer/etude-numerique-de-linteraction-entre-une-decharge-nanoseconde-et-des-gouttelettes/)
-   + [Simulation-aux-grandes-echelles-avec-modelisation-de-paroi-wmles-a-laide-de-methodes-fr-dgsem sur architecture GPU](https://cerfacs.fr/offer/simulation-aux-grandes-echelles-avec-modelisation-de-paroi-wmles-a-laide-de-methodes-fr-dgsem-sur-architecture-gpu/)
+   + [Simulation aux grandes échelles avec modélisation de paroi (WMLES) à l’aide de méthodes FR/DGSEM sur architecture GPU](https://cerfacs.fr/offer/simulation-aux-grandes-echelles-avec-modelisation-de-paroi-wmles-a-laide-de-methodes-fr-dgsem-sur-architecture-gpu/)
+   + [Modélisation géométrique des fronts réactifs supersoniques [+Thèse]](https://cerfacs.fr/offer/modelisation-geometrique-des-fronts-reactifs-supersoniques-these/)
 
  * DPS (Digital Product Simulation) - La Celle Saint-Cloud et Toulouse
    + [Ingénieur Calcul Structure — Simulation numérique par éléments finis de composants mécaniques](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/DPS/0-Stage-simulation-numerique.pdf)
@@ -38,6 +39,17 @@ recevrons de nouveaux sujets.
  * LIP6 - Sorbonne Université, Paris
    + [Multimodular algorithms in low and mixed precision: residue number systems on AI hardware](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/lip6-rns-lowprec.pdf)
 
+ * Centre Inria de l'Université de Bordeaux
+   + Équipe TOPAL
+     - [Intégration du solveur parallèle PaStiX dans le logiciel éléments finis CalculiX](2026/2026_pastix_calculix/)
+   + Équipe Bivwac
+     - [Quantitative and Qualitative Visualization of Scientific Trips to Promote the Sharing and Discussion of Practices](https://fichiers.numerique.gouv.fr/explorer/items/files/ec87b99f-ec74-4504-8af0-9dda05441e0a)
+   + Équipe SISTM
+     - [Dirichlet Process Mixture Model of Negative Binomial distributions for clustering single-cell RNA-seq data in immunological studies](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/SujetStageM2_DiscreteDPMM.pdf)
+	 
+ * ENS Lyon
+   + [Vers l’exascale : correlations temporelles en turbulence astrophysique](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/Stage_turbulence_HPC.pdf)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2025-2026](../stages2025)
@@ -49,6 +61,3 @@ recevrons de nouveaux sujets.
 
 Ne pas hésiter à regarder les pages des années précédentes pour les offres
 qui pourraient encore être d'actualité.
-
- * CERFACS — thèse
-   + [Modélisation géométrique des fronts réactifs supersoniques](https://cerfacs.fr/offer/modelisation-geometrique-des-fronts-reactifs-supersoniques-these/)
