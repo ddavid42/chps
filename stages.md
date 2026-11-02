@@ -40,15 +40,20 @@ recevrons de nouveaux sujets.
    + [Multimodular algorithms in low and mixed precision: residue number systems on AI hardware](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/lip6-rns-lowprec.pdf)
 
  * Centre Inria de l'Université de Bordeaux
-   + Équipe TOPAL
-     - [Intégration du solveur parallèle PaStiX dans le logiciel éléments finis CalculiX](2026/2026_pastix_calculix/)
    + Équipe Bivwac
      - [Quantitative and Qualitative Visualization of Scientific Trips to Promote the Sharing and Discussion of Practices](https://fichiers.numerique.gouv.fr/explorer/items/files/ec87b99f-ec74-4504-8af0-9dda05441e0a)
    + Équipe SISTM
      - [Dirichlet Process Mixture Model of Negative Binomial distributions for clustering single-cell RNA-seq data in immunological studies](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/SujetStageM2_DiscreteDPMM.pdf)
+   + Équipe TADaaM
+     - [Conception et développement d'un algorithme de placement hiérarchique dans Scotch](2026/sujet_scotch_placement-hierarchique/)
+   + Équipe TOPAL
+     - [Intégration du solveur parallèle PaStiX dans le logiciel éléments finis CalculiX](2026/2026_pastix_calculix/)
 	 
  * ENS Lyon
    + [Vers l’exascale : correlations temporelles en turbulence astrophysique](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/Stage_turbulence_HPC.pdf)
+   
+ * Institut d'Astrophysique de Paris
+   + [Développeur.euse C++ HPC d’un code de simulation pour la formation de grandes structures en cosmologie.](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Symbelmyne_fr.pdf) ([English version](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Symbelmyne_en.pdf))
 
 ## Liens vers les années précédentes
 
