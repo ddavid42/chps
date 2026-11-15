@@ -55,6 +55,9 @@ recevrons de nouveaux sujets.
  * Institut d'Astrophysique de Paris
    + [Développeur.euse C++ HPC d’un code de simulation pour la formation de grandes structures en cosmologie.](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Symbelmyne_fr.pdf) ([English version](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Symbelmyne_en.pdf))
 
+ * Université du Texas à El Paso (UTEP)
+   + [Catalogue de stages](https://www.christoph-lauter.org/internships/)
+
 ## Liens vers les années précédentes
 
   * [Liste des offres 2025-2026](../stages2025)
