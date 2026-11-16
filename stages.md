@@ -17,10 +17,16 @@ recevrons de nouveaux sujets.
    + CEA CESTA
       - [Catalogue de stages](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/CEA_CESTA.pdf)
 
+ * CNAM - Paris
+   + [Mandat de vol vérifiable : sécuriser un drone piloté par un agent IA](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/Offre_stage_M2_Mandat_de_vol_drone_IA_FR.pdf)
+
  * CERFACS
    + [Étude numérique de l'interaction entre une décharge nanoseconde et des gouttelettes](https://cerfacs.fr/offer/etude-numerique-de-linteraction-entre-une-decharge-nanoseconde-et-des-gouttelettes/)
    + [Simulation aux grandes échelles avec modélisation de paroi (WMLES) à l’aide de méthodes FR/DGSEM sur architecture GPU](https://cerfacs.fr/offer/simulation-aux-grandes-echelles-avec-modelisation-de-paroi-wmles-a-laide-de-methodes-fr-dgsem-sur-architecture-gpu/)
    + [Modélisation géométrique des fronts réactifs supersoniques [+Thèse]](https://cerfacs.fr/offer/modelisation-geometrique-des-fronts-reactifs-supersoniques-these/)
+
+ * CHU de Reims - Reims
+   + [Étude morphologique en IRM4D de la croissance locale des anévrismes cérébraux](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/CHU_reims.pdf)
 
  * DPS (Digital Product Simulation) - La Celle Saint-Cloud et Toulouse
    + [Ingénieur Calcul Structure — Simulation numérique par éléments finis de composants mécaniques](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/DPS/0-Stage-simulation-numerique.pdf)
@@ -42,6 +48,8 @@ recevrons de nouveaux sujets.
  * Centre Inria de l'Université de Bordeaux
    + Équipe Bivwac
      - [Quantitative and Qualitative Visualization of Scientific Trips to Promote the Sharing and Discussion of Practices](https://fichiers.numerique.gouv.fr/explorer/items/files/ec87b99f-ec74-4504-8af0-9dda05441e0a)
+   + Équipe CONCACE
+     - [Acceleration of 3D particle–mesh interactions with hierarchical algorithms](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/CONCACE_guillet.pdf)
    + Équipe SISTM
      - [Dirichlet Process Mixture Model of Negative Binomial distributions for clustering single-cell RNA-seq data in immunological studies](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/SujetStageM2_DiscreteDPMM.pdf)
    + Équipe TADaaM
@@ -51,12 +59,15 @@ recevrons de nouveaux sujets.
 	 
  * ENS Lyon
    + [Vers l’exascale : correlations temporelles en turbulence astrophysique](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/Stage_turbulence_HPC.pdf)
+
+ * Centre de Recherche Astrophysique de Lyon (CRAL) - Lyon
+   + [MHD idéale par transport contraint dans le module AMR de SHAMROCK](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/CRAL_2027_Commercon.pdf)
    
  * Institut d'Astrophysique de Paris
-   + [Développeur.euse C++ HPC d’un code de simulation pour la formation de grandes structures en cosmologie.](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Symbelmyne_fr.pdf) ([English version](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Symbelmyne_en.pdf))
+   + [Développeur.euse C++ HPC d’un code de simulation pour la formation de grandes structures en cosmologie.](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Simbelmyne_fr.pdf) ([English version](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/IAP/Simbelmyne_en.pdf))
 
- * Université du Texas à El Paso (UTEP)
-   + [Catalogue de stages](https://www.christoph-lauter.org/internships/)
+ * Université du Texas à El Paso (UTEP) - États-Unis
+   + [Stages de recherche pour étudiantes et étudiants de M1/M2](https://www.christoph-lauter.org/internships/)
 
 ## Liens vers les années précédentes
 
