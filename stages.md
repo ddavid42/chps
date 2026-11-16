@@ -21,6 +21,8 @@ recevrons de nouveaux sujets.
    + [Mandat de vol vérifiable : sécuriser un drone piloté par un agent IA](https://cisd.enseirb-matmeca.fr/pfe/offres/2026/Offre_stage_M2_Mandat_de_vol_drone_IA_FR.pdf)
 
  * CERFACS
+   + [Online learning of generative AI models for turbulent flow inpainting](https://cerfacs.fr/en/offer/online-learning-of-generative-ai-models-for-turbulent-flow-inpainting/)
+   + [AI-assisted geometric multigrid incompressible flow solvers on unstructured grids](https://cerfacs.fr/en/offer/ai-assisted-geometric-multigrid-incompressible-flow-solvers-on-unstructured-grids/)
    + [Étude numérique de l'interaction entre une décharge nanoseconde et des gouttelettes](https://cerfacs.fr/offer/etude-numerique-de-linteraction-entre-une-decharge-nanoseconde-et-des-gouttelettes/)
    + [Simulation aux grandes échelles avec modélisation de paroi (WMLES) à l’aide de méthodes FR/DGSEM sur architecture GPU](https://cerfacs.fr/offer/simulation-aux-grandes-echelles-avec-modelisation-de-paroi-wmles-a-laide-de-methodes-fr-dgsem-sur-architecture-gpu/)
    + [Modélisation géométrique des fronts réactifs supersoniques [+Thèse]](https://cerfacs.fr/offer/modelisation-geometrique-des-fronts-reactifs-supersoniques-these/)
